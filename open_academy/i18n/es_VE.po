@@ -1,0 +1,3528 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* open_academy
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 15.0-20220511\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-05-12 01:52+0000\n"
+"PO-Revision-Date: 2022-05-12 01:52+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: open_academy
+#: model:slide.slide,name:open_academy.slide_slide_odoo14_tips_1
+msgid "1-How to Create a Website in Odoo"
+msgstr ""
+
+#. module: open_academy
+#: model:slide.slide,name:open_academy.slide_slide_odoo14_dev_1
+#: model:slide.slide,name:open_academy.slide_slide_odoo15_dev_1
+#: model:slide.slide,name:open_academy.slide_slide_odoo_dev_1
+msgid "1-How to Install Pycharm and Configure PostgreSQL on Ubuntu"
+msgstr ""
+
+#. module: open_academy
+#: model:slide.slide,name:open_academy.slide_slide_odoo14_tips_10
+msgid "10-How to add settings for custom module in Odoo 14"
+msgstr ""
+
+#. module: open_academy
+#: model:slide.slide,name:open_academy.slide_slide_odoo_dev_10
+msgid "10-Inheritance - Traditional Prototype Inheritance in Odoo 13"
+msgstr ""
+
+#. module: open_academy
+#: model:slide.slide,name:open_academy.slide_slide_odoo14_dev_10
+msgid "10-Relations Between Models: One2Many Fields in Odoo 14"
+msgstr ""
+
+#. module: open_academy
+#: model:slide.slide,name:open_academy.slide_slide_odoo15_dev_10
+msgid "10-Relations Between Models: One2Many Fields in Odoo 15"
+msgstr ""
+
+#. module: open_academy
+#: model:slide.slide,name:open_academy.slide_slide_odoo_dev_11
+msgid "11-Inheritance - Delegation Inheritance in Odoo 13"
+msgstr ""
+
+#. module: open_academy
+#: model:slide.slide,name:open_academy.slide_slide_odoo14_tips_11
+msgid "11-Method Overriding & Super in Python Odoo"
+msgstr ""
+
+#. module: open_academy
+#: model:slide.slide,name:open_academy.slide_slide_odoo14_dev_11
+msgid "11-Relations Between Models: Many2Many Fields in Odoo 14"
+msgstr ""
+
+#. module: open_academy
+#: model:slide.slide,name:open_academy.slide_slide_odoo15_dev_11
+msgid "11-Relations Between Models: Many2Many Fields in Odoo 15"
+msgstr ""
+
+#. module: open_academy
+#: model:slide.slide,name:open_academy.slide_slide_odoo14_tips_12
+msgid "12-How to Create Wizard in Odoo 14"
+msgstr ""
+
+#. module: open_academy
+#: model:slide.slide,name:open_academy.slide_slide_odoo14_dev_12
+msgid "12-Inheritance - Traditional Class Inheritance in Odoo 14"
+msgstr ""
+
+#. module: open_academy
+#: model:slide.slide,name:open_academy.slide_slide_odoo15_dev_12
+msgid "12-Inheritance - Traditional Class Inheritance in Odoo 15"
+msgstr ""
+
+#. module: open_academy
+#: model:slide.slide,name:open_academy.slide_slide_odoo_dev_12
+msgid "12-View Inheritance in Odoo 13"
+msgstr ""
+
+#. module: open_academy
+#: model:slide.slide,name:open_academy.slide_slide_odoo_dev_13
+msgid "13-Computed fields and @api.depends in Odoo 13"
+msgstr ""
+
+#. module: open_academy
+#: model:slide.slide,name:open_academy.slide_slide_odoo14_dev_13
+msgid "13-Inheritance - Traditional Prototype Inheritance in Odoo 14"
+msgstr ""
+
+#. module: open_academy
+#: model:slide.slide,name:open_academy.slide_slide_odoo15_dev_13
+msgid "13-Inheritance - Traditional Prototype Inheritance in Odoo 15"
+msgstr ""
+
+#. module: open_academy
+#: model:slide.slide,name:open_academy.slide_slide_odoo14_tips_13
+msgid "13-Web Controller in Odoo"
+msgstr ""
+
+#. module: open_academy
+#: model:slide.slide,name:open_academy.slide_slide_odoo14_dev_14
+msgid "14-Inheritance - Delegation Inheritance in Odoo 14"
+msgstr ""
+
+#. module: open_academy
+#: model:slide.slide,name:open_academy.slide_slide_odoo15_dev_14
+msgid "14-Inheritance - Delegation Inheritance in Odoo 15"
+msgstr ""
+
+#. module: open_academy
+#: model:slide.slide,name:open_academy.slide_slide_odoo14_tips_14
+msgid "14-Odoo Owl Framework"
+msgstr ""
+
+#. module: open_academy
+#: model:slide.slide,name:open_academy.slide_slide_odoo_dev_14
+msgid "14-Setting Default Value for Fields in Odoo 13"
+msgstr ""
+
+#. module: open_academy
+#: model:slide.slide,name:open_academy.slide_slide_odoo14_dev_15
+msgid "15-Computed fields and @api.depends in Odoo 14"
+msgstr ""
+
+#. module: open_academy
+#: model:slide.slide,name:open_academy.slide_slide_odoo15_dev_15
+msgid "15-Computed fields and @api.depends in Odoo 15"
+msgstr ""
+
+#. module: open_academy
+#: model:slide.slide,name:open_academy.slide_slide_odoo14_tips_15
+msgid "15-How to hide a new or existing field inside a One2Many fields"
+msgstr ""
+
+#. module: open_academy
+#: model:slide.slide,name:open_academy.slide_slide_odoo_dev_15
+msgid "15-Onchange mechanism - @api.onchange in Odoo 13"
+msgstr ""
+
+#. module: open_academy
+#: model:slide.slide,name:open_academy.slide_slide_odoo14_tips_16
+msgid "16-How to make all fields read-only in a form"
+msgstr ""
+
+#. module: open_academy
+#: model:slide.slide,name:open_academy.slide_slide_odoo_dev_16
+msgid "16-Model Constraints - Python Constraints in Odoo 13"
+msgstr ""
+
+#. module: open_academy
+#: model:slide.slide,name:open_academy.slide_slide_odoo14_dev_16
+msgid "16-Setting Default Value for Fields in Odoo 14"
+msgstr ""
+
+#. module: open_academy
+#: model:slide.slide,name:open_academy.slide_slide_odoo15_dev_16
+msgid "16-Setting Default Value for Fields in Odoo 15"
+msgstr ""
+
+#. module: open_academy
+#: model:slide.slide,name:open_academy.slide_slide_odoo14_tips_17
+msgid "17-How to secure your Odoo database"
+msgstr ""
+
+#. module: open_academy
+#: model:slide.slide,name:open_academy.slide_slide_odoo_dev_17
+msgid "17-Model Constraints - SQL Constraints in Odoo 13"
+msgstr ""
+
+#. module: open_academy
+#: model:slide.slide,name:open_academy.slide_slide_odoo14_dev_17
+msgid "17-Onchange mechanism - @api.onchange in Odoo 14"
+msgstr ""
+
+#. module: open_academy
+#: model:slide.slide,name:open_academy.slide_slide_odoo15_dev_17
+msgid "17-Onchange mechanism - @api.onchange in Odoo 15"
+msgstr ""
+
+#. module: open_academy
+#: model:slide.slide,name:open_academy.slide_slide_odoo14_tips_18
+msgid "18-How to add chatter to your custom module"
+msgstr ""
+
+#. module: open_academy
+#: model:slide.slide,name:open_academy.slide_slide_odoo14_dev_18
+msgid "18-Model Constraints - Python Constraints in Odoo 14"
+msgstr ""
+
+#. module: open_academy
+#: model:slide.slide,name:open_academy.slide_slide_odoo15_dev_18
+msgid "18-Model Constraints - Python Constraints in Odoo 15"
+msgstr ""
+
+#. module: open_academy
+#: model:slide.slide,name:open_academy.slide_slide_odoo_dev_18
+msgid "18-Tree View Decoration Attribute in odoo 13"
+msgstr ""
+
+#. module: open_academy
+#: model:slide.slide,name:open_academy.slide_slide_odoo_dev_19
+msgid "19-Advanced Views - Calendar View in Odoo 13"
+msgstr ""
+
+#. module: open_academy
+#: model:slide.slide,name:open_academy.slide_slide_odoo14_tips_19
+msgid "19-How to Install Odoo 15 on Ubuntu 20.04"
+msgstr ""
+
+#. module: open_academy
+#: model:slide.slide,name:open_academy.slide_slide_odoo14_dev_19
+msgid "19-Model Constraints - SQL Constraints in Odoo 14"
+msgstr ""
+
+#. module: open_academy
+#: model:slide.slide,name:open_academy.slide_slide_odoo15_dev_19
+msgid "19-Model Constraints - SQL Constraints in Odoo 15"
+msgstr ""
+
+#. module: open_academy
+#: model:slide.slide,name:open_academy.slide_slide_odoo_dev_2
+msgid "2-How to Configure Odoo 13 on Pycharm Ubuntu"
+msgstr ""
+
+#. module: open_academy
+#: model:slide.slide,name:open_academy.slide_slide_odoo14_dev_2
+msgid "2-How to Configure Odoo 14 on Pycharm Ubuntu"
+msgstr ""
+
+#. module: open_academy
+#: model:slide.slide,name:open_academy.slide_slide_odoo15_dev_2
+msgid "2-How to Configure Odoo 15 on Pycharm Ubuntu"
+msgstr ""
+
+#. module: open_academy
+#: model:slide.slide,name:open_academy.slide_slide_odoo14_tips_2
+msgid "2-How to Create a Dashboard in Odoo"
+msgstr ""
+
+#. module: open_academy
+#: model:slide.slide,name:open_academy.slide_slide_odoo_dev_20
+msgid "20-Advanced Views - Search View in Odoo 13"
+msgstr ""
+
+#. module: open_academy
+#: model:slide.slide,name:open_academy.slide_slide_odoo14_dev_20
+msgid "20-Advanced Views - Tree View Decoration Attribute in Odoo 14"
+msgstr ""
+
+#. module: open_academy
+#: model:slide.slide,name:open_academy.slide_slide_odoo15_dev_20
+msgid "20-Advanced Views - Tree View Decoration Attribute in Odoo 15"
+msgstr ""
+
+#. module: open_academy
+#: model:slide.slide,name:open_academy.slide_slide_odoo14_tips_20
+msgid "20-How to Install Odoo 14 on Ubuntu 20.04"
+msgstr ""
+
+#. module: open_academy
+#: model:slide.slide,name:open_academy.slide_slide_odoo14_dev_21
+msgid "21-Advanced Views - Calendar View in Odoo 14"
+msgstr ""
+
+#. module: open_academy
+#: model:slide.slide,name:open_academy.slide_slide_odoo15_dev_21
+msgid "21-Advanced Views - Calendar View in Odoo 15"
+msgstr ""
+
+#. module: open_academy
+#: model:slide.slide,name:open_academy.slide_slide_odoo_dev_21
+msgid "21-Advanced Views - Gantt View in Odoo 13"
+msgstr ""
+
+#. module: open_academy
+#: model:slide.slide,name:open_academy.slide_slide_odoo14_tips_21
+msgid "21-How to Install Odoo 13 on Ubuntu 18.04"
+msgstr ""
+
+#. module: open_academy
+#: model:slide.slide,name:open_academy.slide_slide_odoo14_dev_22
+msgid "22-Advanced Views - Search View in Odoo 14"
+msgstr ""
+
+#. module: open_academy
+#: model:slide.slide,name:open_academy.slide_slide_odoo15_dev_22
+msgid "22-Advanced Views - Search View in Odoo 15"
+msgstr ""
+
+#. module: open_academy
+#: model:slide.slide,name:open_academy.slide_slide_odoo14_tips_22
+msgid "22-How to Configure Odoo 12 on Pycharm Ubuntu 18"
+msgstr ""
+
+#. module: open_academy
+#: model:slide.slide,name:open_academy.slide_slide_odoo_dev_22
+msgid "22-Pivot View in Odoo"
+msgstr ""
+
+#. module: open_academy
+#: model:slide.slide,name:open_academy.slide_slide_odoo14_dev_23
+msgid "23-Advanced Views - Graph View in Odoo 14"
+msgstr ""
+
+#. module: open_academy
+#: model:slide.slide,name:open_academy.slide_slide_odoo15_dev_23
+msgid "23-Advanced Views - Graph View in Odoo 15"
+msgstr ""
+
+#. module: open_academy
+#: model:slide.slide,name:open_academy.slide_slide_odoo_dev_23
+msgid "23-Graph View in Odoo"
+msgstr ""
+
+#. module: open_academy
+#: model:slide.slide,name:open_academy.slide_slide_odoo14_tips_23
+msgid "23-How to Create Smart Button in Odoo 14"
+msgstr ""
+
+#. module: open_academy
+#: model:slide.slide,name:open_academy.slide_slide_odoo14_dev_24
+msgid "24-Advanced Views - Gantt View in Odoo 14"
+msgstr ""
+
+#. module: open_academy
+#: model:slide.slide,name:open_academy.slide_slide_odoo15_dev_24
+msgid "24-Advanced Views - Gantt View in Odoo 15"
+msgstr ""
+
+#. module: open_academy
+#: model:slide.slide,name:open_academy.slide_slide_odoo_dev_24
+msgid "24-Kanban View in Odoo 13"
+msgstr ""
+
+#. module: open_academy
+#: model:slide.slide,name:open_academy.slide_slide_odoo14_dev_25
+msgid "25-Advanced Views - Kanban View in Odoo 14"
+msgstr ""
+
+#. module: open_academy
+#: model:slide.slide,name:open_academy.slide_slide_odoo15_dev_25
+msgid "25-Advanced Views - Kanban View in Odoo 15"
+msgstr ""
+
+#. module: open_academy
+#: model:slide.slide,name:open_academy.slide_slide_odoo_dev_25
+msgid "25-Pivot View in Odoo"
+msgstr ""
+
+#. module: open_academy
+#: model:slide.slide,name:open_academy.slide_slide_odoo14_dev_26
+#: model:slide.slide,name:open_academy.slide_slide_odoo15_dev_26
+msgid "26-Odoo Security - Groups and Access Rights"
+msgstr ""
+
+#. module: open_academy
+#: model:slide.slide,name:open_academy.slide_slide_odoo_dev_26
+msgid "26-Security - Groups and access rights in Odoo"
+msgstr ""
+
+#. module: open_academy
+#: model:slide.slide,name:open_academy.slide_slide_odoo14_dev_27
+#: model:slide.slide,name:open_academy.slide_slide_odoo15_dev_27
+msgid "27-Odoo Security - Record Rules"
+msgstr ""
+
+#. module: open_academy
+#: model:slide.slide,name:open_academy.slide_slide_odoo_dev_27
+msgid "27-Wizards - Defining and Launching in Odoo"
+msgstr ""
+
+#. module: open_academy
+#: model:slide.slide,name:open_academy.slide_slide_odoo_dev_28
+msgid "28-Odoo Development - URL Actions in Odoo 13"
+msgstr ""
+
+#. module: open_academy
+#: model:slide.slide,name:open_academy.slide_slide_odoo14_dev_28
+#: model:slide.slide,name:open_academy.slide_slide_odoo15_dev_28
+msgid "28-Odoo wizards - Creating and Launching"
+msgstr ""
+
+#. module: open_academy
+#: model:slide.slide,name:open_academy.slide_slide_odoo_dev_29
+msgid "29-Odoo Development - Server Actions in Odoo 13"
+msgstr ""
+
+#. module: open_academy
+#: model:slide.slide,name:open_academy.slide_slide_odoo14_dev_30
+#: model:slide.slide,name:open_academy.slide_slide_odoo15_dev_30
+msgid "29-Odoo Reporting - Printed Report(PDF).mp4"
+msgstr ""
+
+#. module: open_academy
+#: model:slide.slide,name:open_academy.slide_slide_odoo14_dev_3
+msgid "3-Building a Module With Menus and Actions in Odoo 14"
+msgstr ""
+
+#. module: open_academy
+#: model:slide.slide,name:open_academy.slide_slide_odoo15_dev_3
+msgid "3-Building a Module With Menus and Actions in Odoo 15"
+msgstr ""
+
+#. module: open_academy
+#: model:slide.slide,name:open_academy.slide_slide_odoo_dev_3
+msgid "3-Components and Structure of Odoo 13 Module"
+msgstr ""
+
+#. module: open_academy
+#: model:slide.slide,name:open_academy.slide_slide_odoo14_tips_3
+msgid "3-How to Create a Custom Module in Odoo"
+msgstr ""
+
+#. module: open_academy
+#: model:slide.slide,name:open_academy.slide_slide_odoo_dev_30
+msgid "30-Odoo Development - Automated Actions in Odoo 13"
+msgstr ""
+
+#. module: open_academy
+#: model:slide.slide,name:open_academy.slide_slide_odoo14_dev_31
+#: model:slide.slide,name:open_academy.slide_slide_odoo15_dev_31
+msgid "30-Odoo Reporting - Setup a Dashboard"
+msgstr ""
+
+#. module: open_academy
+#: model:slide.slide,name:open_academy.slide_slide_odoo14_dev_4
+msgid "4-Compositions of a Odoo 14 Module"
+msgstr ""
+
+#. module: open_academy
+#: model:slide.slide,name:open_academy.slide_slide_odoo15_dev_4
+msgid "4-Compositions of a Odoo 15 Module"
+msgstr ""
+
+#. module: open_academy
+#: model:slide.slide,name:open_academy.slide_slide_odoo14_tips_4
+msgid "4-Forecast Widget in Tree View"
+msgstr ""
+
+#. module: open_academy
+#: model:slide.slide,name:open_academy.slide_slide_odoo_dev_4
+msgid "4-How to Create an Empty Module Structure Scaffold Command in Odoo 13"
+msgstr ""
+
+#. module: open_academy
+#: model:slide.slide,name:open_academy.slide_slide_odoo14_dev_5
+msgid "5- Structure of a Odoo 14 Module"
+msgstr ""
+
+#. module: open_academy
+#: model:slide.slide,name:open_academy.slide_slide_odoo15_dev_5
+msgid "5- Structure of a Odoo 15 Module"
+msgstr ""
+
+#. module: open_academy
+#: model:slide.slide,name:open_academy.slide_slide_odoo_dev_5
+msgid "5-Building a module in Odoo 13"
+msgstr ""
+
+#. module: open_academy
+#: model:slide.slide,name:open_academy.slide_slide_odoo14_tips_5
+msgid "5-Odoo 14 Printed Reports PDF"
+msgstr ""
+
+#. module: open_academy
+#: model:slide.slide,name:open_academy.slide_slide_odoo14_dev_6
+msgid "6- Creating an Empty Module Structure Using Scaffold in Odoo 14"
+msgstr ""
+
+#. module: open_academy
+#: model:slide.slide,name:open_academy.slide_slide_odoo15_dev_6
+msgid "6- Creating an Empty Module Structure Using Scaffold in Odoo 15"
+msgstr ""
+
+#. module: open_academy
+#: model:slide.slide,name:open_academy.slide_slide_odoo14_tips_6
+msgid "6-Odoo 14 Reporting Dashboard"
+msgstr ""
+
+#. module: open_academy
+#: model:slide.slide,name:open_academy.slide_slide_odoo_dev_6
+msgid "6-Relations Between Models on Odoo: Many2One Fields in Odoo 13"
+msgstr ""
+
+#. module: open_academy
+#: model:slide.slide,name:open_academy.slide_slide_odoo14_dev_7
+msgid "7- Adding Data Files in to Your Odoo 14 module"
+msgstr ""
+
+#. module: open_academy
+#: model:slide.slide,name:open_academy.slide_slide_odoo15_dev_7
+msgid "7- Adding Data Files in to Your Odoo 15 module"
+msgstr ""
+
+#. module: open_academy
+#: model:slide.slide,name:open_academy.slide_slide_odoo14_tips_7
+msgid "7-How to Create New Models in Odoo?"
+msgstr ""
+
+#. module: open_academy
+#: model:slide.slide,name:open_academy.slide_slide_odoo_dev_7
+msgid "7-Relations Between Models in Odoo: One2Many Fields in Odoo 13"
+msgstr ""
+
+#. module: open_academy
+#: model:slide.slide,name:open_academy.slide_slide_odoo14_dev_8
+msgid "8- Basic Views in Odoo 14 (Tree, Form, and Search)"
+msgstr ""
+
+#. module: open_academy
+#: model:slide.slide,name:open_academy.slide_slide_odoo15_dev_8
+msgid "8- Basic Views in Odoo 15 (Tree, Form, and Search)"
+msgstr ""
+
+#. module: open_academy
+#: model:slide.slide,name:open_academy.slide_slide_odoo14_tips_8
+msgid "8-Odoo Security Record Rules"
+msgstr ""
+
+#. module: open_academy
+#: model:slide.slide,name:open_academy.slide_slide_odoo_dev_8
+msgid "8-Relations Between Models in Odoo: Many2Many Fields in Odoo 13"
+msgstr ""
+
+#. module: open_academy
+#: model:slide.slide,name:open_academy.slide_slide_odoo_dev_9
+msgid "9-Inheritance - Traditional Class Inheritance in Odoo 13"
+msgstr ""
+
+#. module: open_academy
+#: model:slide.slide,name:open_academy.slide_slide_odoo14_dev_9
+msgid "9-Relations Between Models: Many2One Fields in Odoo 14"
+msgstr ""
+
+#. module: open_academy
+#: model:slide.slide,name:open_academy.slide_slide_odoo15_dev_9
+msgid "9-Relations Between Models: Many2One Fields in Odoo 15"
+msgstr ""
+
+#. module: open_academy
+#: model:slide.slide,name:open_academy.slide_slide_odoo14_tips_9
+msgid "9-Translation In Odoo 14"
+msgstr ""
+
+#. module: open_academy
+#: model_terms:ir.ui.view,arch_db:open_academy.view_openacad_session_kanban
+msgid ""
+"<br/>\n"
+"                                    Start date:"
+msgstr ""
+
+#. module: open_academy
+#: model_terms:ir.ui.view,arch_db:open_academy.view_openacad_session_kanban
+msgid ""
+"<br/>\n"
+"                                    duration:"
+msgstr ""
+
+#. module: open_academy
+#: model_terms:ir.ui.view,arch_db:open_academy.view_openacad_session_kanban
+msgid "<i class=\"fa fa-bars fa-lg\" title=\"Manage\" aria-label=\"Manage\"/>"
+msgstr ""
+
+#. module: open_academy
+#: model_terms:slide.slide,description:open_academy.slide_slide_odoo14_dev_15
+msgid ""
+"A computed field is declared just like any other regular field in Odoo along with the additional argument compute. The value is the name of the function as a string or a function.\n"
+"\n"
+"In this video, we are going to learn about computing fields, how it works, and @api.depends on Odoo 14.\n"
+"\n"
+"#odoo14 #odoo #odoofields #odoocomputedfields #odooapidepends\n"
+"\n"
+"►► Visit our company website: https://www.cybrosys.com/\n"
+"\n"
+"Connect with us: \n"
+"► Facebook: http://ow.ly/Ty0Q30lc5TU\n"
+"► twitter: http://ow.ly/s5cV30lc5Vc\n"
+"► LinkedIn: http://ow.ly/GJfg30lc5WT\n"
+"► Pinterest: http://bit.ly/2I2b5N0\n"
+"\n"
+"About Us\n"
+"Cybrosys is enriched with technical experts and research scholars producing high-end quality software tools. Our sophisticated infrastructure and lab facilities constantly bring in new technological innovations and attributions. Partnership with ODOO, MICROSOFT, IBM, Intel, HP, NASSCOM proves our strength and excellence.\n"
+"\n"
+"We are Odoo Gold Partners standing par excellence in Odoo Implementation, Customization, and allied services. We do Source code sale and Employee outsourcing. The latest research and developments in Cybrosys are being conducted in Blockchain. Our robust quality product and services are widely used by clients residing across India, USA, UK, Middle East &amp; Europe."
+msgstr ""
+
+#. module: open_academy
+#: model_terms:slide.slide,description:open_academy.slide_slide_odoo14_dev_22
+msgid ""
+"A search view defines the search options that will be available in the views. The Search view defines the ‘fields’ to be searched when a user types in the search box. \n"
+"\n"
+"We can also set predefined filters as well as data Grouping options with the help of the search view. The root element of the search view search. field, filter, and group by will be used in search view to analyze and quickly search the data from the list view.\n"
+"\n"
+"#odoodevelopment #odoo14 #odootutorial"
+msgstr ""
+
+#. module: open_academy
+#: model_terms:slide.slide,description:open_academy.slide_slide_odoo_dev_20
+msgid ""
+"A search view defines the search options that will be available in the views. The Search view defines the ‘fields’ to be searched when a user types in the search box. \n"
+"\n"
+"We can also set predefined filters as well as data Grouping options with the help of the search view.The root element of search view is search. field, filter and group by will be used in search view to analysis and quick search the data from list view.\n"
+"\n"
+"Get the module from our repository: https://github.com/CybroOdoo/openacademy\n"
+"\n"
+"#odoo13 #odootutorials #odoosearchview\n"
+"For More Videos Subscribe to our YouTube channel. \n"
+"\n"
+"Visit our company website: https://www.cybrosys.com/\n"
+"\n"
+"Connect with us: \n"
+"Facebook: http://ow.ly/Ty0Q30lc5TU\n"
+"twitter: http://ow.ly/s5cV30lc5Vc\n"
+"LinkedIn: http://ow.ly/GJfg30lc5WT\n"
+"Pinterest: http://bit.ly/2I2b5N0\n"
+"\n"
+"About Us\n"
+"Cybrosys is enriched with technical experts and research scholars producing high-end quality software tool. Our sophisticated infrastructure and lab facilities constantly bring in new technological innovations and attributions. Partnership with ODOO, MICROSOFT, IBM, Intel, HP, NASSCOM proves our strength and excellence.\n"
+"\n"
+"We are Odoo Gold Partners standing par excellence in Odoo Implementation, Customization and allied services. We do Source code sale, Custom software development, and Employee outsourcing. The latest research and developments in Cybrosys are being conducted in Blockchain. Our robust quality product and services are widely used by clients residing across in India, USA, UK, Middle East &amp; Europe."
+msgstr ""
+
+#. module: open_academy
+#: model:ir.model.fields,field_description:open_academy.field_openacademy_session__active
+msgid "Active"
+msgstr "Activo"
+
+#. module: open_academy
+#: model:ir.actions.act_window,name:open_academy.launch_session_wizard
+#: model_terms:ir.ui.view,arch_db:open_academy.wizard_form_view
+msgid "Agregar Asistentes"
+msgstr ""
+
+#. module: open_academy
+#: model:ir.model.fields,field_description:open_academy.field_res_partner__session_ids
+#: model:ir.model.fields,field_description:open_academy.field_res_users__session_ids
+msgid "Attended Sessions"
+msgstr "Sesiones Asistidas"
+
+#. module: open_academy
+#: model:ir.model.fields,field_description:open_academy.field_openacademy_session__attendee_ids
+#: model:ir.model.fields,field_description:open_academy.field_openacademy_wizard__attendee_ids
+msgid "Asistentes"
+msgstr ""
+
+#. module: open_academy
+#: model:ir.actions.act_window,name:open_academy.act_session_graph
+#: model_terms:ir.ui.view,arch_db:open_academy.board_session_form
+msgid "Attendees by course"
+msgstr "Asistentes por curso"
+
+#. module: open_academy
+#: model:ir.model.fields,field_description:open_academy.field_openacademy_session__attendees_count
+msgid "Attendees count"
+msgstr "Los asistentes cuentan"
+
+#. module: open_academy
+#: model_terms:ir.ui.view,arch_db:open_academy.report_session_view
+msgid "Asistentes:"
+msgstr ""
+
+#. module: open_academy
+#: model_terms:slide.slide,description:open_academy.slide_slide_odoo_dev_19
+msgid ""
+"Calendar view provides a timeline – schedule view for the data, they display records as events in a daily, weekly, or monthly calendar. Their root element is “Calendar”\n"
+"\n"
+"Get the module from our repository: https://github.com/CybroOdoo/openacademy\n"
+"\n"
+"Available attributes on the calendar view are:\n"
+"\n"
+"date_start (required):\n"
+"name of the record’s field holding the start date for the event\n"
+"\n"
+"date_stop:\n"
+"name of the record’s field holding the end date for the event, if date_stop is provided records become movable (via drag and drop) directly in the calendar\n"
+"\n"
+"date_delay:\n"
+"the alternative to date_stop provides the duration of the event instead of its end date (unit: day)\n"
+"\n"
+"color:\n"
+"name of a record field to use for color segmentation. Records in the same color segment are allocated the same highlight color in the calendar, colors are allocated semi-randomly. Displayed the display_name/avatar of the visible record in the sidebar.\n"
+"\n"
+"form_view_id:\n"
+"view to open when the user creates or edit an event. Note that if this attribute is not set, the calendar view will fall back to the id of the form view in the current action, if any.\n"
+"\n"
+"event_open_popup:\n"
+"If the option ‘event_open_popup’ is set to true, then the calendar view will open events (or records) in a FormViewDialog. Otherwise, it will open events in a new form view (with a do_action)\n"
+"\n"
+"quick_add:\n"
+"enables quick-event creation on click: only asks the user for a name and tries to create a new event with just that and the clicked event time. Falls back to a full form dialog if the quick creation fails\n"
+"\n"
+"all_day:\n"
+"name of a boolean field on the record indicating whether the corresponding event is flagged as day-long (and duration is irrelevant)\n"
+"\n"
+"mode:\n"
+"Default display mode when loading the calendar. Possible attributes are: day, week, month\n"
+"\n"
+"#odoo13 #odootutorials #odooocalendarview\n"
+"For More Videos Subscribe to our YouTube channel. \n"
+"\n"
+"Visit our company website: https://www.cybrosys.com/\n"
+"\n"
+"Connect with us: \n"
+"Facebook: http://ow.ly/Ty0Q30lc5TU\n"
+"twitter: http://ow.ly/s5cV30lc5Vc\n"
+"LinkedIn: http://ow.ly/GJfg30lc5WT\n"
+"Pinterest: http://bit.ly/2I2b5N0\n"
+"\n"
+"About Us\n"
+"Cybrosys is enriched with technical experts and research scholars producing high-end quality software tool. Our sophisticated infrastructure and lab facilities constantly bring in new technological innovations and attributions. Partnership with ODOO, MICROSOFT, IBM, Intel, HP, NASSCOM proves our strength and excellence.\n"
+"\n"
+"We are Odoo Gold Partners standing par excellence in Odoo Implementation, Customization and allied services. We do Source code sale, Custom software development, and Employee outsourcing. The latest research and developments in Cybrosys are being conducted in Blockchain. Our robust quality product and services are widely used by clients residing across in India, USA, UK, Middle East &amp; Europe."
+msgstr ""
+
+#. module: open_academy
+#: model_terms:slide.slide,description:open_academy.slide_slide_odoo14_dev_21
+msgid ""
+"Calendar view provides a timeline – schedule view for the data, they display records as events in a daily, weekly, or monthly calendar. Their root element is “Calendar”.\n"
+"\n"
+"Attributes of the calendar view are:\n"
+"\n"
+"date_start:\n"
+"This field is required to specify the starting date for the event. \n"
+"date_stop:\n"
+"This field is required to specify the ending date for the event. I mentioned in the record, the record turns to be movable in the calendar.\n"
+"date_delay:\n"
+"This field acts as an alternative to date_stop field which specifies the length of the event rather than the end date. \n"
+"colour:\n"
+"This field is used to colorize calendar/gantt items.\n"
+"form_view_id:\n"
+"Open view when an event is generated or modified by the user. The thing to be noted is that if the attribute is not set and if any calendar view exists in the current action, then it would fall back to the id of the form view.\n"
+"event_open_popup:\n"
+"If the event_open_popup=\"true\" then the view of the respective event window will open as a popup. Otherwise, it will open events in a new form of view.\n"
+"quick_add:\n"
+"This field allows the creation of an event instantly. Here, the user provides their name along with time which inturn helps in creating new events instantly and if the quick creation fails, it returns to a full form dialogue.\n"
+"all_day:\n"
+"Name of the record boolean field indicating whether the corresponding event is flagged as day-long (and irrelevant for the duration)\n"
+"mode:\n"
+"Indicate the Default view mode of the calendar when the page is loaded and the possible attributes are day, week, month.\n"
+"\n"
+"\n"
+"Video Contents\n"
+"00:43 Importance of the Calendar view\n"
+"02:35 How to Add a Date\n"
+"04:00 Timedelta\n"
+"11:34 What is the Form ID\n"
+"12:50 What is Date Delay\n"
+"\n"
+"Related Videos:\n"
+"Advanced Views - Calendar View in Odoo 13: https://youtu.be/gJdRL7Nlmno"
+msgstr ""
+
+#. module: open_academy
+#: model_terms:ir.ui.view,arch_db:open_academy.wizard_form_view
+msgid "Cancelar"
+msgstr ""
+
+#. module: open_academy
+#: model:ir.model.fields,field_description:open_academy.field_openacademy_session__color
+msgid "Color"
+msgstr "Color"
+
+#. module: open_academy
+#: model:ir.ui.menu,name:open_academy.configuration_menu
+msgid "Configuration"
+msgstr "Configuración"
+
+#. module: open_academy
+#: model:ir.model,name:open_academy.model_res_partner
+msgid "Contact"
+msgstr "Contacto"
+
+#. module: open_academy
+#: model_terms:slide.channel,enroll_msg:open_academy.slide_channel_odoo14_development
+#: model_terms:slide.channel,enroll_msg:open_academy.slide_channel_odoo14_technical_tips
+#: model_terms:slide.channel,enroll_msg:open_academy.slide_channel_odoo15_development
+#: model_terms:slide.channel,enroll_msg:open_academy.slide_channel_odoo_development
+msgid "Contacto responsable"
+msgstr "Contacto responsable"
+
+#. module: open_academy
+#: model:ir.actions.act_window,name:open_academy.contact_list_action
+#: model:ir.ui.menu,name:open_academy.contact_menu
+msgid "Contacts"
+msgstr "Contactos"
+
+#. module: open_academy
+#: model:ir.model.fields,field_description:open_academy.field_openacademy_session__course_id
+msgid "Course"
+msgstr "Curso"
+
+#. module: open_academy
+#: model_terms:ir.ui.view,arch_db:open_academy.course_form_view
+msgid "Course Form"
+msgstr "Formulario del curso"
+
+#. module: open_academy
+#: model_terms:ir.ui.view,arch_db:open_academy.course_list_view
+msgid "Course List"
+msgstr "Lista de cursos"
+
+#. module: open_academy
+#: model:ir.actions.act_window,name:open_academy.act_course_list
+#: model:ir.actions.act_window,name:open_academy.course_list_action
+#: model:ir.ui.menu,name:open_academy.courses_menu
+#: model_terms:ir.ui.view,arch_db:open_academy.board_session_form
+msgid "Courses"
+msgstr "Cursos"
+
+#. module: open_academy
+#: model_terms:ir.actions.act_window,help:open_academy.course_list_action
+msgid "Create the first course"
+msgstr "Crear el primer curso"
+
+#. module: open_academy
+#: model:ir.model.fields,field_description:open_academy.field_openacademy_course__create_uid
+#: model:ir.model.fields,field_description:open_academy.field_openacademy_session__create_uid
+#: model:ir.model.fields,field_description:open_academy.field_openacademy_wizard__create_uid
+msgid "Created by"
+msgstr "Creado por"
+
+#. module: open_academy
+#: model:ir.model.fields,field_description:open_academy.field_openacademy_course__create_date
+#: model:ir.model.fields,field_description:open_academy.field_openacademy_session__create_date
+#: model:ir.model.fields,field_description:open_academy.field_openacademy_wizard__create_date
+msgid "Created on"
+msgstr "Creado en"
+
+#. module: open_academy
+#: model_terms:slide.slide,description:open_academy.slide_slide_odoo14_dev_31
+#: model_terms:slide.slide,description:open_academy.slide_slide_odoo14_tips_6
+#: model_terms:slide.slide,description:open_academy.slide_slide_odoo15_dev_31
+msgid ""
+"Dashboards of a software tool can play a very significant role in improving and supporting the business the same way the reports do. Both play a key role in disseminating and highlighting important information pertaining to various business operations. Both the dashboard and the reports help the management with insightful information to trigger fast and quick business decisions. \n"
+"\n"
+"This video explains how one can create the reporting Dashboard with different views including calendar view, graph view, tree view graph view"
+msgstr ""
+
+#. module: open_academy
+#: model_terms:ir.ui.view,arch_db:open_academy.view_openacad_session_kanban
+msgid "Delete"
+msgstr "Borrar"
+
+#. module: open_academy
+#: model:ir.model.fields,field_description:open_academy.field_openacademy_course__description
+#: model_terms:ir.ui.view,arch_db:open_academy.course_form_view
+msgid "Description"
+msgstr "Descripción"
+
+#. module: open_academy
+#: model:ir.model.fields,field_description:open_academy.field_openacademy_course__display_name
+#: model:ir.model.fields,field_description:open_academy.field_openacademy_session__display_name
+#: model:ir.model.fields,field_description:open_academy.field_openacademy_wizard__display_name
+msgid "Display Name"
+msgstr "Nombre para mostrar"
+
+#. module: open_academy
+#: model:ir.model.fields,field_description:open_academy.field_openacademy_session__duration
+msgid "Duration"
+msgstr "Duración"
+
+#. module: open_academy
+#: model:ir.model.fields,help:open_academy.field_openacademy_session__duration
+msgid "Duration in days"
+msgstr "Duración en días"
+
+#. module: open_academy
+#: model:ir.model.fields,field_description:open_academy.field_openacademy_session__end_date
+msgid "End Date"
+msgstr "Fecha final"
+
+#. module: open_academy
+#: model_terms:slide.slide,description:open_academy.slide_slide_odoo14_tips_7
+msgid ""
+"For odoo developing we have default structure like models, views, security, etc. models are the database tables, It contains fields and essential behaviors for storing the data. \n"
+"This video explains how to create new models in odoo.\n"
+"\n"
+"#odoo #odoodevelopment #odoomodels \n"
+"\n"
+"Visit our website for more Development Videos: https://www.cybrosys.com/odoo-development-tutorial/"
+msgstr ""
+
+#. module: open_academy
+#: model_terms:ir.ui.view,arch_db:open_academy.report_session_view
+msgid "From"
+msgstr "Desde"
+
+#. module: open_academy
+#: model_terms:slide.slide,description:open_academy.slide_slide_odoo_dev_21
+msgid ""
+"Gantt view provides a timeline view for the data. Generally, it can be used to display project tasks and resource allocation in odoo 13.\n"
+"\n"
+"A Gantt chart is a graphical display of all the tasks that a project is composed of. Each bar on the chart is a graphical representation of the length of time the task is planned to take.\n"
+"\n"
+"Get the module from our repository: https://github.com/CybroOdoo/openacademy\n"
+"\n"
+"The root element of Gantt views is (angle bracket)gantt/(angle bracket), it has no children but can take the following attributes:\n"
+"\n"
+"date_start (required)\n"
+"name of the field providing the start date-time of the event for each record.\n"
+"\n"
+"date_stop (required)\n"
+"name of the field providing the end duration of the event for each record.\n"
+"\n"
+"color\n"
+"name of the field used to color the pills according to its value\n"
+"\n"
+"decoration-{$name}\n"
+"allow changing the style of a row’s text based on the corresponding record’s attributes.\n"
+"\n"
+"default_group_by\n"
+"name of a field to group tasks by\n"
+"\n"
+"consolidation\n"
+"field name to display consolidation value in record cell\n"
+"\n"
+"consolidation_max\n"
+"dictionary with the “group by” field as key and the maximum consolidation value that can be reached before displaying the cell in red (e.g. {\"user_id\": 100})\n"
+"\n"
+"consolidation_exclude\n"
+"name of the field that describes if the task has to be excluded from the consolidation if set to true it displays a striped zone in the consolidation line\n"
+"\n"
+"create, edit, plan\n"
+"allows disabling the corresponding action in the view by setting the corresponding attribute to false. If create is enabled, a “+” button will be displayed while hovering each time slot to create a new record in that slot, and if edit is enabled, a “magnifying glass” button will be displayed to plan records into that time slot.\n"
+"offset\n"
+"\n"
+"Depending on the scale, the number of units to add to today to compute the default period. Examples: An offset of +1 in default_scale week will open the gantt view for next week, and an offset of -2 in default_scale month will open the gantt view of 2 months ago.\n"
+"\n"
+"progress\n"
+"name of a field providing the completion percentage for the record’s event, between 0 and 100\n"
+"\n"
+"string\n"
+"title of the gantt view\n"
+"\n"
+"precision\n"
+"JSON object specifying snapping precisions for the pills in each scale.\n"
+"\n"
+"Possible values for scale day are (default: hour):\n"
+"\n"
+"hour: records times snap to full hours (ex: 7:12 becomes 8:00)\n"
+"\n"
+"hour:half: records times snap to half hours (ex: 7:12 becomes 7:30)\n"
+"\n"
+"hour:quarter: records times snap to half hours (ex: 7:12 becomes 7:15)\n"
+"\n"
+"Possible values for scale week are (default: day:half):\n"
+"\n"
+"day: records times snap to full days (ex: 7:28 AM becomes 11:59:59 PM)\n"
+"\n"
+"day:half: records times snap to half hours (ex: 7:28 AM becomes 12:00 PM)\n"
+"\n"
+"Possible values for scale month are (default: day:half):\n"
+"\n"
+"day: records times snap to full days (ex: 7:28 AM becomes 11:59:59 PM)\n"
+"\n"
+"day:half: records times snap to half hours (ex: 7:28 AM becomes 12:00 PM)\n"
+"\n"
+"Scale year always snap to full day.\n"
+"Example of precision attribute: {\"day\": \"hour:quarter\", \"week\": \"day:half\", \"month\": \"day\"}\n"
+"\n"
+"total_row\n"
+"boolean to control whether the row containing the total count of records should be displayed. (default: false)\n"
+"\n"
+"collapse_first_level\n"
+"boolean to control whether it is possible to collapse each row if grouped by one field. (default: false, the collapse starts when grouping by two fields)\n"
+"\n"
+"display_unavailability\n"
+"boolean to mark the dates returned by the gantt_unavailability function of the model as available inside the gantt view. Records can still be scheduled in them, but their unavailability is visually displayed. (default: false)\n"
+"\n"
+"default_scale\n"
+"default scale when rendering the view. Possible values are (default: month):\n"
+"\n"
+"- day\n"
+"- week\n"
+"- month\n"
+"- year\n"
+"\n"
+"scales\n"
+"comma-separated list of allowed scales for this view. By default, all scales are allowed. For possible scale values to use in this list, see default_scale.\n"
+"\n"
+"templates\n"
+"defines the QWeb template gantt-popover which is used when the user hovers over one of the records in the gantt view.\n"
+"The gantt view uses mostly-standard javascript qweb and provides the following context variables:\n"
+"\n"
+"widget\n"
+"the current GanttRow(), can be used to fetch some meta-information. The getColor method to convert in a color integer is also available directly in the template context without using widget.\n"
+"on_create If specified when clicking the add button on the view, instead of opening a generic dialog, launch a client action. this should hold the xmlid of the action (eg: on_create=\"%(my_module.my_wizard)d\"\n"
+"\n"
+"form_view_id\n"
+"view to open when the user create or edit a record. Note that if this attribute is not set, the gantt view will fall back to the id of the form view in the current action, if any.\n"
+"\n"
+"#odoo13 #odootutorials #odooganttview\n"
+"More videos Subscribe to our YouTube channel. \n"
+"\n"
+"Visit our company website: https://www.cybrosys.com/\n"
+"\n"
+"Connect with us: \n"
+"Facebook: http://ow.ly/Ty0Q30lc5TU\n"
+"twitter: http://ow.ly/s5cV30lc5Vc\n"
+"LinkedIn: http://ow.ly/GJfg30lc5WT"
+msgstr ""
+
+#. module: open_academy
+#: model_terms:slide.slide,description:open_academy.slide_slide_odoo14_dev_24
+msgid ""
+"Gantt view provides a timeline view for the data. Generally, it can be used to display project tasks and resource allocation in odoo 14.\n"
+"\n"
+"A Gantt chart is a graphical display of all the tasks that a project is composed of. Each bar on the chart is a graphical representation of the length of time the task is planned to take.\n"
+"\n"
+"Get the module from our repository: https://github.com/CybroOdoo/openacademy\n"
+"\n"
+"Video Contents:\n"
+"00:00 Introduction\n"
+"00:43 What is Gantt View\n"
+"01:50 How to Add a Gnatt View\n"
+"04:07 Session Gantt View ID\n"
+"\n"
+"#odoodevelopment #odoo #odootutorial"
+msgstr ""
+
+#. module: open_academy
+#: model_terms:ir.ui.view,arch_db:open_academy.session_form_view
+msgid "General"
+msgstr "General"
+
+#. module: open_academy
+#: model_terms:slide.slide,description:open_academy.slide_slide_odoo_dev_23
+msgid ""
+"Graph views provide a graphical view of the data, in the form of Bar chart, Pie chart, and Line chart. The graph view is an aggregation of all the records in a model, which is generally visualized in bar, pie, and line. The default type of graph is a pie chart - to change it to a bar chart, we need to specify the type. You also may change the orientation. \n"
+"\n"
+"Get the module from our repository: https://github.com/CybroOdoo/openacademy\n"
+"\n"
+"The graph view is used to visualize aggregations over a number of records or record groups. Its root element is 〈graph〉\n"
+"\n"
+"which can take the following attributes:\n"
+"\n"
+"type\n"
+"one of bar (default), pie and line, the type of graph to use\n"
+"stacked\n"
+"only used for bar charts. If present and set to True, stacks bars within a group\n"
+"The only allowed element within a graph view is a field that can have the following attributes:\n"
+"\n"
+"name (required)\n"
+"the name of a field to use in the view. If used for grouping (rather than aggregating)\n"
+"title (optional)\n"
+"string displayed on the top of the graph.\n"
+"type\n"
+"indicates whether the field should be used as a grouping criteria or as an aggregated value within a group. Possible values are:\n"
+"row (default)\n"
+"groups by the specified field. All graph types support at least one level of grouping, some may support more.\n"
+"col\n"
+"authorized in graph views but only used by pivot tables\n"
+"measure\n"
+"field to aggregate within a group\n"
+"interval\n"
+"on date and datetime fields, groups by the specified interval (day, week, month, quarter or year) instead of grouping on the specific datetime (fixed second resolution) or date (fixed day resolution).\n"
+"\n"
+"#odoodevelopment #odootutorials #odoo13\n"
+"For More Videos Subscribe to our YouTube channel. \n"
+"\n"
+"Visit our company website: https://www.cybrosys.com/\n"
+"\n"
+"Connect with us: \n"
+"Facebook: http://ow.ly/Ty0Q30lc5TU\n"
+"twitter: http://ow.ly/s5cV30lc5Vc\n"
+"LinkedIn: http://ow.ly/GJfg30lc5WT\n"
+"Pinterest: http://bit.ly/2I2b5N0\n"
+"\n"
+"About Us\n"
+"Cybrosys is enriched with technical experts and research scholars producing high-end quality software tools. Our sophisticated infrastructure and lab facilities constantly bring in new technological innovations and attributions. Partnership with ODOO, MICROSOFT, IBM, Intel, HP, NASSCOM proves our strength and excellence.\n"
+"\n"
+"We are Odoo Gold Partners standing par excellence in Odoo Implementation, Customization, and allied services. We do Source code sale, Custom software development, and Employee outsourcing. The latest research and developments in Cybrosys are being conducted in Blockchain. Our robust quality product and services are widely used by clients residing across in India, USA, UK, Middle East &amp; Europe."
+msgstr ""
+
+#. module: open_academy
+#: model_terms:slide.slide,description:open_academy.slide_slide_odoo14_dev_23
+msgid ""
+"Graph views provide a graphical view of the data, in the form of Bar chart, Pie chart, and Line chart. The graph view is an aggregation of all the records in a model, which is generally visualized in bar, pie, and line. The default type of graph is a pie chart - to change it to a bar chart, we need to specify the type. You also may change the orientation. \n"
+"\n"
+"Video Content: \n"
+"0:00 - Introduction to the Graph view\n"
+"1:10- How to Define model and views for Graph view\n"
+"6:08 - Working demo of the Graph view\n"
+"\n"
+"Get the module from our repository: https://github.com/CybroOdoo/openacademy\n"
+"\n"
+"The graph view is used to visualize aggregations over a number of records or record groups. Its root element is 〈graph〉\n"
+"\n"
+"which can take the following attributes:\n"
+"\n"
+"type\n"
+"one of bar (default), pie and line, the type of graph to use\n"
+"stacked\n"
+"only used for bar charts. If present and set to True, stacks bars within a group\n"
+"The only allowed element within a graph view is a field that can have the following attributes:\n"
+"\n"
+"name (required)\n"
+"the name of a field to use in the view. If used for grouping (rather than aggregating)\n"
+"title (optional)\n"
+"string displayed on the top of the graph.\n"
+"type\n"
+"indicates whether the field should be used as a grouping criteria or as an aggregated value within a group. Possible values are:\n"
+"row (default)\n"
+"groups by the specified field. All graph types support at least one level of grouping, some may support more.\n"
+"col\n"
+"authorized in graph views but only used by pivot tables\n"
+"measure\n"
+"field to aggregate within a group\n"
+"interval\n"
+"on date and datetime fields, groups by the specified interval (day, week, month, quarter or year) instead of grouping on the specific datetime (fixed second resolution) or date (fixed day resolution)."
+msgstr ""
+
+#. module: open_academy
+#: model_terms:ir.ui.view,arch_db:open_academy.course_search_view
+msgid "Group By"
+msgstr "Agrupar por"
+
+#. module: open_academy
+#: model_terms:slide.slide,description:open_academy.slide_slide_odoo14_tips_19
+msgid ""
+"How to Install Odoo 15 on Ubuntu 20.04? This video will describe step by step guide to install Odoo 15 in an Ubuntu server 20.04 LTS and will help to understand its each process. \n"
+"\n"
+"Note: All of these steps will go through the terminal(Command Line Interface).\n"
+"#installodoo \n"
+"\n"
+"Video Chapters\n"
+"00:05 Introduction - How to install Odoo 15 on Ubuntu 20.04 LTS\n"
+"00:40 Updating Server\n"
+"01:08 Secure Server\n"
+"01:22 Install Python3 and Dependencies\n"
+"03:40 Setup Database Server\n"
+"05:08 Create System User\n"
+"05:24 Clone Odoo From GitHub\n"
+"06:33 Install Python Packages\n"
+"10:20 Install Wkhtmltopdf \n"
+"11:25 Setup Conf File\n"
+"14:30 Create Service File\n"
+"15:43 Run Odoo 1\n"
+"\n"
+"Odoo 15 comes with exciting new features, a better user experience, and more improvements in performance. Odoo 15 required Python 3.8 and PostgreSQL for the database management system. \n"
+"#odoo15videos\n"
+"\n"
+"Let’s get started from the very beginning. Odoo is the most popular all-in-one business software in the world. \n"
+"\n"
+"To Install Odoo 15 on Ubuntu 20.04 you just need to follow the steps in this video. There are many ways to install Odoo depending on the requirements and the easy and quick way to install Odoo by using APT repositories.\n"
+"#odootechnical\n"
+"\n"
+"If you want to work with running multiple Odoo versions on the same system then you can either use docker compose or docker Install Odoo in a virtual environment."
+msgstr ""
+
+#. module: open_academy
+#: model:ir.model.fields,field_description:open_academy.field_openacademy_course__id
+#: model:ir.model.fields,field_description:open_academy.field_openacademy_session__id
+#: model:ir.model.fields,field_description:open_academy.field_openacademy_wizard__id
+msgid "ID"
+msgstr "ID"
+
+#. module: open_academy
+#: model_terms:slide.slide,description:open_academy.slide_slide_odoo15_dev_20
+msgid ""
+"In Odoo sometimes we may need to differentiate records based on some factors. We have seen the feature in some modules, for instance, in the list view, the records are separated with different colors. \n"
+"#odoo15development\n"
+"\n"
+"Furthermore, based on the conditions the records are displayed in different colors. Therefore, it becomes highly helpful to find and identify the records from the list based on the color. \n"
+"#odoo15developmenttutorials\n"
+"\n"
+"Additionally, in Odoo it's been used in most of the modules. In this video, we are discussing Different Tree view decorations attribute in #odoo15"
+msgstr ""
+
+#. module: open_academy
+#: model_terms:slide.slide,description:open_academy.slide_slide_odoo_dev_12
+msgid ""
+"In Odoo we can inherit or use existing modules object/class/model and views. We can also inherit a single field of existing modules.\n"
+"\n"
+"What is Inheritance?\n"
+"Inheritance means we are going to use or inherit old class/model, properties, methods and views in the new class/model. This concept is related to Object-Oriented Programming. In Odoo/ERP we extend properties, fields, and views of an existing model in a modular way.\n"
+"\n"
+"Get the module from our repository: https://github.com/CybroOdoo/openacademy\n"
+"\n"
+"Related Videos:\n"
+"Configure Odoo 14 Project on Pycharm Ubuntu: https://www.youtube.com/watch?v=UGg1j5RCXKk&amp;t=5s\n"
+"Building a Module in Odoo 14: https://www.youtube.com/watch?v=wwIniIlIrAc\n"
+"Composition of a module in Odoo 14: https://www.youtube.com/watch?v=8_M96X4O6XI\n"
+"Module Structure in Odoo 14: https://www.youtube.com/watch?v=1F0veP4EJ2Q&amp;t=160s\n"
+"Empty Module Structure Scaffold in Odoo 14: https://www.youtube.com/watch?v=fY-QQXT2clw\n"
+"\n"
+"In this video, we are going to learn about view inheritance in Odoo\n"
+"\n"
+"\n"
+"#odoodevelopment #viewinheritance #classinheritance\n"
+"For More Videos Subscribe to our YouTube channel. \n"
+"\n"
+"Visit our company website: https://www.cybrosys.com/\n"
+"\n"
+"Connect with us: \n"
+"Facebook: http://ow.ly/Ty0Q30lc5TU\n"
+"twitter: http://ow.ly/s5cV30lc5Vc\n"
+"LinkedIn: http://ow.ly/GJfg30lc5WT\n"
+"Pinterest: http://bit.ly/2I2b5N0"
+msgstr ""
+
+#. module: open_academy
+#: model_terms:slide.slide,description:open_academy.slide_slide_odoo14_dev_16
+msgid ""
+"In Odoo, sometimes we face the need to set a specific value for a field by default every time we create a record of that model. This video explains how to Set up default values for fields in Odoo 14.\n"
+"\n"
+"#odoo14 #odoo #odoo14field #defaultvalueforfields #setdefaultvalue #setdefaultvalueodoo14 #odoodevelopment \n"
+"\n"
+"►► Visit our company website: https://www.cybrosys.com/\n"
+"\n"
+"Connect with us: \n"
+"► Facebook: http://ow.ly/Ty0Q30lc5TU\n"
+"► twitter: http://ow.ly/s5cV30lc5Vc\n"
+"► LinkedIn: http://ow.ly/GJfg30lc5WT\n"
+"► Pinterest: http://bit.ly/2I2b5N0\n"
+"\n"
+"About Us\n"
+"Cybrosys is enriched with technical experts and research scholars producing high-end quality software tools. Our sophisticated infrastructure and lab facilities constantly bring in new technological innovations and attributions. Partnership with ODOO, MICROSOFT, IBM, Intel, HP, NASSCOM proves our strength and excellence.\n"
+"\n"
+"We are Odoo Gold Partners standing par excellence in Odoo Implementation, Customization, and allied services. We do Source code sales and Employee outsourcing. The latest research and developments in Cybrosys are being conducted in Blockchain. Our robust quality products and services are widely used by clients residing across India, the USA, UK, Middle East &amp; Europe."
+msgstr ""
+
+#. module: open_academy
+#: model_terms:slide.slide,description:open_academy.slide_slide_odoo14_dev_12
+msgid ""
+"In Odoo/OpenERP we can inherit or use existing modules object/class/model and views. We can also inherit a single field of existing modules.\n"
+"\n"
+"What is Inheritance?\n"
+"Inheritance means we are going to use or inherit old class/model, properties, methods, and views in the new class/model. This concept is related to Object-Oriented Programming. In Odoo/ERP we extend properties, fields, and views of an existing model in a modular way.\n"
+"\n"
+"In this video, we are going to learn about traditional class inheritance. This is used to extend the features of an existing object.\n"
+"\n"
+"#odoo14 #odoo #odoo14development\n"
+"\n"
+"►► Visit our company website: https://www.cybrosys.com/\n"
+"\n"
+"Connect with us: \n"
+"► Facebook: http://ow.ly/Ty0Q30lc5TU\n"
+"► twitter: http://ow.ly/s5cV30lc5Vc\n"
+"► LinkedIn: http://ow.ly/GJfg30lc5WT\n"
+"► Pinterest: http://bit.ly/2I2b5N0\n"
+"\n"
+"About Us\n"
+"Cybrosys is enriched with technical experts and research scholars producing high-end quality software tools. Our sophisticated infrastructure and lab facilities constantly bring in new technological innovations and attributions. Partnership with ODOO, MICROSOFT, IBM, Intel, HP, NASSCOM proves our strength and excellence.\n"
+"\n"
+"We are Odoo Gold Partners standing par excellence in Odoo Implementation, Customization, and allied services. We do Source code sale and Employee outsourcing. The latest research and developments in Cybrosys are being conducted in Blockchain. Our robust quality product and services are widely used by clients residing across in India, USA, UK, Middle East &amp; Europe."
+msgstr ""
+
+#. module: open_academy
+#: model_terms:slide.slide,description:open_academy.slide_slide_odoo_dev_10
+msgid ""
+"In Odoo/OpenERP we can inherit or use existing modules object/class/model and views. We can also inherit a single field of existing modules.\n"
+"\n"
+"What is Inheritance?\n"
+"Inheritance means we are going to use or inherit the old class/model, properties, methods, and views in the new class/model. This concept is related to Object-Oriented Programming. In Odoo/ERP we extend properties, fields, and views of an existing model in a modular way.\n"
+"\n"
+"Get the module from our repository: https://github.com/CybroOdoo/openacademy\n"
+"\n"
+"Related Videos:\n"
+"Configure Odoo 14 Project on Pycharm Ubuntu: https://www.youtube.com/watch?v=UGg1j5RCXKk&amp;t=5s\n"
+"Building a Module in Odoo 14: https://www.youtube.com/watch?v=wwIniIlIrAc\n"
+"Composition of a module in Odoo 14: https://www.youtube.com/watch?v=8_M96X4O6XI\n"
+"Module Structure in Odoo 14: https://www.youtube.com/watch?v=1F0veP4EJ2Q&amp;t=160s\n"
+"Empty Module Structure Scaffold in Odoo 14: https://www.youtube.com/watch?v=fY-QQXT2clw\n"
+"\n"
+"In this video, we are going to learn about traditional Prototype inheritance\n"
+"\n"
+"Types of Inheritance.\n"
+"\n"
+"1. Traditional inheritance\n"
+"   * Class inhertiance \n"
+"   * Prototype ineritance\n"
+"2. Delegation Inheritance\n"
+"\n"
+"\n"
+"#odoodevelopment #inheritancemodels #classinheritance\n"
+"For More Videos Subscribe to our YouTube channel. \n"
+"\n"
+"Visit our company website: https://www.cybrosys.com/\n"
+"\n"
+"Connect with us: \n"
+"Facebook: http://ow.ly/Ty0Q30lc5TU\n"
+"twitter: http://ow.ly/s5cV30lc5Vc\n"
+"LinkedIn: http://ow.ly/GJfg30lc5WT\n"
+"Pinterest: http://bit.ly/2I2b5N0"
+msgstr ""
+
+#. module: open_academy
+#: model_terms:slide.slide,description:open_academy.slide_slide_odoo14_dev_13
+msgid ""
+"In Odoo/OpenERP we can inherit or use existing modules object/class/model and views. We can also inherit a single field of existing modules.\n"
+"\n"
+"What is Inheritance?\n"
+"Inheritance means we are going to use or inherit the old class/model, properties, methods, and views in the new class/model. This concept is related to Object-Oriented Programming. In Odoo/ERP we extend properties, fields, and views of an existing model in a modular way.\n"
+"\n"
+"In this video, we are going to learn about traditional Prototype inheritance\n"
+"\n"
+"Video Contents:\n"
+"00:40 What is Prototyping\n"
+"01:30 How to copy features from Existing Object\n"
+"04:10 How to Inherit Models\n"
+"\n"
+"#odoo14 #odoo #odoo14development\n"
+"\n"
+"►► Visit our company website: https://www.cybrosys.com/\n"
+"\n"
+"Connect with us: \n"
+"► Facebook: http://ow.ly/Ty0Q30lc5TU\n"
+"► twitter: http://ow.ly/s5cV30lc5Vc\n"
+"► LinkedIn: http://ow.ly/GJfg30lc5WT\n"
+"► Pinterest: http://bit.ly/2I2b5N0\n"
+"\n"
+"About Us\n"
+"Cybrosys is enriched with technical experts and research scholars producing high-end quality software tools. Our sophisticated infrastructure and lab facilities constantly bring in new technological innovations and attributions. Partnership with ODOO, MICROSOFT, IBM, Intel, HP, NASSCOM proves our strength and excellence.\n"
+"\n"
+"We are Odoo Gold Partners standing par excellence in Odoo Implementation, Customization, and allied services. We do Source code sale and Employee outsourcing. The latest research and developments in Cybrosys are being conducted in Blockchain. Our robust quality product and services are widely used by clients residing across in India, USA, UK, Middle East &amp; Europe."
+msgstr ""
+
+#. module: open_academy
+#: model_terms:slide.slide,description:open_academy.slide_slide_odoo15_dev_27
+msgid ""
+"In business, there are different types of records. And it is essential to provide proper security for those records. #securityinodoo15\n"
+"\n"
+"In Odoo, there are also some security rules. The rules define who can access the following objects. In record rules, we describe some conditions for certain operations. #odoo15developmentvideos\n"
+"\n"
+"Video Contents #odoo15videos\n"
+"0:00 Introduction\n"
+"0:36 Checking Record Rules of a Model\n"
+"0:52 Checking the Example of Record Rule in Source Code\n"
+"1:40 Providing a Model for the Record Rule\n"
+"2:00 Specifying the Group\n"
+"2:18 Permission\n"
+"2:43 Adding Conditions\n"
+"3:42 Error Fixing"
+msgstr ""
+
+#. module: open_academy
+#: model_terms:slide.slide,description:open_academy.slide_slide_odoo14_dev_14
+msgid ""
+"In delegation inheritance provides more flexibility, we use the _inherits attribute. This is used if you want to sink another model in your current model without affecting the views. So the database tables contain fields in your model and also a field representing the inherited object.\n"
+"\n"
+"Read more about DIfferent Inheritance in Odoo: https://www.cybrosys.com/blog/types-of-inheritance-odoo\n"
+"\n"
+"Video Contents:\n"
+"00:38 What is Delegation Inheritance\n"
+"05:26 Delegation Inheritance code view\n"
+"08:04 Benefits of using Delegation Inheritance\n"
+"08:49 Examples for Delegation\n"
+"\n"
+"#odoo14 #odoo #odoo14features \n"
+"\n"
+"►► Visit our company website: https://www.cybrosys.com/\n"
+"\n"
+"Connect with us: \n"
+"► Facebook: http://ow.ly/Ty0Q30lc5TU\n"
+"► twitter: http://ow.ly/s5cV30lc5Vc\n"
+"► LinkedIn: http://ow.ly/GJfg30lc5WT\n"
+"► Pinterest: http://bit.ly/2I2b5N0\n"
+"\n"
+"About Us\n"
+"Cybrosys is enriched with technical experts and research scholars producing high-end quality software tools. Our sophisticated infrastructure and lab facilities constantly bring in new technological innovations and attributions. Partnership with ODOO, MICROSOFT, IBM, Intel, HP, NASSCOM proves our strength and excellence.\n"
+"\n"
+"We are Odoo Gold Partners standing par excellence in Odoo Implementation, Customization, and allied services. We do Source code sale and Employee outsourcing. The latest research and developments in Cybrosys are being conducted in Blockchain. Our robust quality product and services are widely used by clients residing across in India, USA, UK, Middle East &amp; Europe."
+msgstr ""
+
+#. module: open_academy
+#: model_terms:slide.slide,description:open_academy.slide_slide_odoo14_dev_1
+#: model_terms:slide.slide,description:open_academy.slide_slide_odoo15_dev_1
+#: model_terms:slide.slide,description:open_academy.slide_slide_odoo_dev_1
+msgid ""
+"In this Odoo Development Tutorial, we will see How to Install Pycharm on Ubuntu 18 and Configuration of POSTGRESQL on Ubuntu 18? POSTGRESQL is an open-source, full-featured relational database.PostgreSQL is the most advanced open-source relational database.\n"
+"\n"
+"PyCharm is an integrated development environment used in computer programming, specifically for the Python language. It is developed by the Czech company JetBrains. \n"
+"\n"
+"Video Contents:\n"
+"00:00 Introduction\n"
+"06:42 How to Install Pycharm\n"
+"19:02 How to Configure Pycharm\n"
+"22:04 Create a user and assign Role\n"
+"\n"
+"Related Videos:\n"
+"Configure Odoo 14 Project on Pycharm Ubuntu: https://www.youtube.com/watch?v=UGg1j5RCXKk&amp;t=5s\n"
+"Building a Module in Odoo 14: https://www.youtube.com/watch?v=wwIniIlIrAc\n"
+"Composition of a module in Odoo 14: https://www.youtube.com/watch?v=8_M96X4O6XI\n"
+"Module Structure in Odoo 14: https://www.youtube.com/watch?v=1F0veP4EJ2Q&amp;t=160s\n"
+"Empty Module Structure Scaffold in Odoo 14: https://www.youtube.com/watch?v=fY-QQXT2clw\n"
+"\n"
+"Refer our blog  - https://www.cybrosys.com/blog/odoo-11-development-in-ubuntu-18-04-using-pycharm\n"
+"\n"
+"#pycharm #postgresql #ubuntu\n"
+"More videos Subscribe to our YouTube channel. \n"
+"\n"
+"Visit our company website: https://www.cybrosys.com/\n"
+"\n"
+"Connect with us: \n"
+"Facebook: http://ow.ly/Ty0Q30lc5TU\n"
+"twitter: http://ow.ly/s5cV30lc5Vc\n"
+"LinkedIn: http://ow.ly/GJfg30lc5WT\n"
+"Pinterest: http://bit.ly/2I2b5N0\n"
+"Instagram: http://ow.ly/RPzV30lc6z"
+msgstr ""
+
+#. module: open_academy
+#: model_terms:slide.slide,description:open_academy.slide_slide_odoo15_dev_17
+msgid ""
+"In this video, it describes about @api.onchange method on the client interface #onchangemethod \n"
+"\n"
+"@api.onchange decorator is used when the field's value is changed. It can be used to validate data or trigger action. This method can be invoked on pseudo records that contain values of the form.  #odoo15developmenttutorials \n"
+"\n"
+"Video Contents: #odoo15videos\n"
+"0:00 Introduction\n"
+"1:13 @api.onchange\n"
+"1:49 Defining onchange Function\n"
+"2:35 Update in the UI"
+msgstr ""
+
+#. module: open_academy
+#: model_terms:slide.slide,description:open_academy.slide_slide_odoo15_dev_15
+msgid ""
+"In this video, it discusses compute function and how to store value in a field using this functionality and @api.depends operation.\n"
+"\n"
+"Odoo provides compute function which helps to calculate from some other fields. It is just like any other regular field along with an additional argument compute.\n"
+"\n"
+"Video Contents\n"
+"0:00 Introduction\n"
+"0:36 Field declaring\n"
+"1:41 Defining @api.depends operation\n"
+"2:51 Define Compute function and compute the value \n"
+"4:09 Adding field into XML files of view\n"
+"4:31 Updating in UI\n"
+"\n"
+"Which can be stored directly and retrieved directly from a database, and the api operation @api.depends helps to compute the value based on the change in the depends field."
+msgstr ""
+
+#. module: open_academy
+#: model_terms:slide.slide,description:open_academy.slide_slide_odoo14_dev_27
+#: model_terms:slide.slide,description:open_academy.slide_slide_odoo14_tips_8
+msgid ""
+"In this video, the area is covered in Odoo security and is called record rule. Record rules restrict access rights to a subset of records. Records rules for the objects can determine who can access the object according to the rules set. One can manage rules based on access modes for the object. \n"
+"\n"
+"Video Contents\n"
+"00:00 Introduction\n"
+"01:12 What is the record rule\n"
+"03:47 Examples for Record Rules\n"
+"10:18 How to enable access to the admin user"
+msgstr ""
+
+#. module: open_academy
+#: model_terms:slide.slide,description:open_academy.slide_slide_odoo15_dev_2
+msgid ""
+"In this video, we are discussing How to configure an Odoo 15 project in #pycharm and its functional flow.\n"
+"#configureodoo #odoo15"
+msgstr ""
+
+#. module: open_academy
+#: model_terms:slide.slide,description:open_academy.slide_slide_odoo15_dev_22
+msgid ""
+"In this video, we are discussing How to define a search View in odoo15 and its use cases in odoo development. #searchviewinodoo\n"
+"\n"
+"Odoo's search view is perhaps the most popular. It helps you to easily search, filter, or group data based on a condition to get the information you need. #odoodevelopment\n"
+"\n"
+"We will develop a search view for our custom module in this tutorial to demonstrate the options and functionality of a search view. \n"
+"\n"
+"You will be able to construct your own search views and understand how they work after watching this tutorial. \n"
+"#odoo15tutorials"
+msgstr ""
+
+#. module: open_academy
+#: model_terms:slide.slide,description:open_academy.slide_slide_odoo15_dev_8
+msgid ""
+"In this video, we are discussing about basic views in odoo15 and how to define a view in odoo development.\n"
+"#odoo15 #odoodevelopment #odooviews"
+msgstr ""
+
+#. module: open_academy
+#: model_terms:slide.slide,description:open_academy.slide_slide_odoo15_dev_23
+msgid ""
+"In this video, we are discussing how to define a Graph view in odoo15 and its use cases in odoo development.\n"
+"\n"
+"Graph views provide a graphical view of the data, in the form of a Bar chart, Pie chart, and Line chart. The graph view is an aggregation of all the records in a model, which is generally visualized in bar, pie, and line. \n"
+"\n"
+"The default type of graph is a pie chart - to change it to a bar chart, we need to specify the type. You also may change the orientation. \n"
+"\n"
+"The graph view is used to visualize aggregations over a number of records or record groups."
+msgstr ""
+
+#. module: open_academy
+#: model_terms:slide.slide,description:open_academy.slide_slide_odoo15_dev_9
+msgid ""
+"In this video, we are discussing how to define a Many2one field in odoo and its use cases in odoo development. \n"
+"#odoomany2one #odoodevelopmentvideos #odoo15"
+msgstr ""
+
+#. module: open_academy
+#: model_terms:slide.slide,description:open_academy.slide_slide_odoo15_dev_21
+msgid ""
+"In this video, we are discussing how to define a calendar view in odoo15 and its use cases in odoo. #odoocalendarview\n"
+"\n"
+"No matter how big or small an industry is, it is always essential to organize meetings concerning the aspects of the company and its operations. #odoo15videos\n"
+"\n"
+"For both large and small-scale businesses, the Calendars play a sterling role in keeping its employees up to date with all the events and occasions happening in the organization. #odoo15developmentvideos\n"
+"\n"
+"In Odoo, we have different sets of views that help to specify how the data is depicted to the user. Moreover, among these, the Calendar view provides the users with a well-sorted timeline/schedule information of data in three different formats of the calendar as Day, Week, Months."
+msgstr ""
+
+#. module: open_academy
+#: model_terms:slide.slide,description:open_academy.slide_slide_odoo15_dev_11
+msgid ""
+"In this video, we are discussing how to define a many2many fields in odoo and their use cases in odoo development.\n"
+"#odoomany2many #odoodevelopment #odoo15videos"
+msgstr ""
+
+#. module: open_academy
+#: model_terms:slide.slide,description:open_academy.slide_slide_odoo15_dev_14
+msgid ""
+"In this video, we are discussing what is Delegation Inheritance in odoo15 and its use cases in odoo development.\n"
+"\n"
+"#odooinheritance #odoo15development #odoo15tutorials"
+msgstr ""
+
+#. module: open_academy
+#: model_terms:slide.slide,description:open_academy.slide_slide_odoo15_dev_12
+msgid ""
+"In this video, we are discussing what is a traditional class inheritance in odoo15 and its use cases in odoo15 development.\n"
+"\n"
+"#odooinhertance #odoodevelopmentvideos #odoo15videos"
+msgstr ""
+
+#. module: open_academy
+#: model_terms:slide.slide,description:open_academy.slide_slide_odoo15_dev_10
+msgid ""
+"In this video, we are discussing, How to define an One2many field and its use cases in odoo development.\n"
+"#odoo15developmentvideos #one2manyodoo #odoobeginners"
+msgstr ""
+
+#. module: open_academy
+#: model_terms:slide.slide,description:open_academy.slide_slide_odoo14_tips_18
+msgid ""
+"In this video, we are going to discuss how we can add chatter to our custom modules.\n"
+"\n"
+"What is the need of a chatter?\n"
+"1. We can send Mails\n"
+"2. We can add log related to the particular record\n"
+"3. We can add followers to the record\n"
+"4. Keep track of field value changes\n"
+"\n"
+"\n"
+"#odoodevelopment #odoomodule #odoo13\n"
+"For More Videos Subscribe to our YouTube channel. \n"
+"\n"
+"Visit our company website: https://www.cybrosys.com/\n"
+"\n"
+"Connect with us: \n"
+"Facebook: http://ow.ly/Ty0Q30lc5TU\n"
+"twitter: http://ow.ly/s5cV30lc5Vc\n"
+"LinkedIn: http://ow.ly/GJfg30lc5WT\n"
+"Pinterest: http://bit.ly/2I2b5N0\n"
+"\n"
+"About Us\n"
+"Cybrosys is enriched with technical experts and research scholars producing high-end quality software tools. Our sophisticated infrastructure and lab facilities constantly bring in new technological innovations and attributions. Partnership with ODOO, MICROSOFT, IBM, Intel, HP, NASSCOM proves our strength and excellence.\n"
+"\n"
+"We are Odoo Gold Partners standing par excellence in Odoo Implementation, Customization, and allied services. We do Source code sale, Custom software development, and Employee outsourcing. The latest research and developments in Cybrosys are being conducted in Blockchain. Our robust quality product and services are widely used by clients residing across in India, USA, UK, Middle East &amp; Europe."
+msgstr ""
+
+#. module: open_academy
+#: model_terms:slide.slide,description:open_academy.slide_slide_odoo_dev_13
+msgid ""
+"In this video, we are going to learn about computing fields, how it works, and @api.depends on Odoo 13.\n"
+"\n"
+"Get the module from our repository: https://github.com/CybroOdoo/openacademy\n"
+"\n"
+"Related Videos:\n"
+"Configure Odoo 14 Project on Pycharm Ubuntu: https://www.youtube.com/watch?v=UGg1j5RCXKk&amp;t=5s\n"
+"Building a Module in Odoo 14: https://www.youtube.com/watch?v=wwIniIlIrAc\n"
+"Composition of a module in Odoo 14: https://www.youtube.com/watch?v=8_M96X4O6XI\n"
+"Module Structure in Odoo 14: https://www.youtube.com/watch?v=1F0veP4EJ2Q&amp;t=160s\n"
+"Empty Module Structure Scaffold in Odoo 14: https://www.youtube.com/watch?v=fY-QQXT2clw\n"
+"\n"
+"#odoodevelopment #odootutorials #odoofields\n"
+"For More Videos Subscribe to our YouTube channel. \n"
+"\n"
+"Visit our company website: https://www.cybrosys.com/\n"
+"\n"
+"Connect with us: \n"
+"Facebook: http://ow.ly/Ty0Q30lc5TU\n"
+"twitter: http://ow.ly/s5cV30lc5Vc\n"
+"LinkedIn: http://ow.ly/GJfg30lc5WT\n"
+"Pinterest: http://bit.ly/2I2b5N0"
+msgstr ""
+
+#. module: open_academy
+#: model_terms:slide.slide,description:open_academy.slide_slide_odoo15_dev_7
+msgid ""
+"In this video, we discuss Data files in odoo 15. It can be demo data or other standard data can be given as XML, CSV files.\n"
+"#odoo15development #odootutorials #odoodatafiles\n"
+"\n"
+"Video Contents:\n"
+"0:00 Introduction to data files and Types of files\n"
+"0:50 How to Create Data directory and XML file to load data\n"
+"1:13 Data 'noupdate'\n"
+"1:45 Data record for employee\n"
+"3:36 Record for work_location\n"
+"5:00 Updating in manifest"
+msgstr ""
+
+#. module: open_academy
+#: model_terms:slide.slide,description:open_academy.slide_slide_odoo15_dev_16
+msgid ""
+"In this video, we discuss defining default values for fields in odoo 15 by different methods. #odoo15development\n"
+"\n"
+"In odoo Sometimes we need to set a specific value for a field based on conditions. It can be possible using different methods, we can add specific value within the field using default and also by declaring default function.\n"
+"#odoo15tutorials #odoo15videos\n"
+"\n"
+"Video Contents\n"
+"0:00 Introduction\n"
+"0:56 How to Set_default defining along with field\n"
+"4:11 Default function"
+msgstr ""
+
+#. module: open_academy
+#: model_terms:slide.slide,description:open_academy.slide_slide_odoo14_tips_12
+msgid ""
+"In this video, we will be discussing how we can create a wizard in Odoo 14. \n"
+"Wizards in odoo are used to fetch inputs from the user using a dialog window. They are basically used to provide an interactive session to the user through which the user can input the fields according to the model data we provide. Wizards are created by inheriting the Transient model rather than the usual Models in odoo, as the records are not meant to permanently stored in the database.\n"
+"\n"
+"Read Blog ( How to Create Wizard in Odoo 13 ): https://www.cybrosys.com/blog/how-to-create-wizard-in-odoo-13\n"
+"\n"
+"#odoo14 #odoo #odoo14wizard #createwizardodoo #odoowizard #wizardsinodoo14\n"
+"\n"
+"►► Visit our company website: https://www.cybrosys.com/\n"
+"\n"
+"Connect with us: \n"
+"► Facebook: http://ow.ly/Ty0Q30lc5TU\n"
+"► twitter: http://ow.ly/s5cV30lc5Vc\n"
+"► LinkedIn: http://ow.ly/GJfg30lc5WT\n"
+"► Pinterest: http://bit.ly/2I2b5N0\n"
+"\n"
+"About Us\n"
+"Cybrosys is enriched with technical experts and research scholars producing high-end quality software tools. Our sophisticated infrastructure and lab facilities constantly bring in new technological innovations and attributions. Partnership with ODOO, MICROSOFT, IBM, Intel, HP, NASSCOM proves our strength and excellence.\n"
+"\n"
+"We are Odoo Gold Partners standing par excellence in Odoo Implementation, Customization, and allied services. We do Source code sale and Employee outsourcing. The latest research and developments in Cybrosys are being conducted in Blockchain. Our robust quality product and services are widely used by clients residing across in India, USA, UK, Middle East &amp; Europe."
+msgstr ""
+
+#. module: open_academy
+#: model_terms:slide.slide,description:open_academy.slide_slide_odoo14_tips_11
+msgid ""
+"In this video, we will be discussing how we can override a method in Odoo 14 and the usage of the super method. By overriding a method we can change the implementation of that method, which is redefining that method. By using the super method we can override a method to change its default behavior and also execute the original method. Similarly, we can override any method in Odoo14\n"
+"\n"
+"Video Contents:\n"
+"0:00 Introduction\n"
+"0:15 How to override a function in Odoo?\n"
+"0:32 Go to sale order form\n"
+"1:34 Goto Pycharm\n"
+"3:30 sale order form \n"
+"4:33 Super Method\n"
+"6:35 Creating new quotation\n"
+"\n"
+"\n"
+"\n"
+"#odoo14 #odoo #odoo14development #python #odoopython\n"
+"\n"
+"►► Visit our company website: https://www.cybrosys.com/\n"
+"\n"
+"Connect with us: \n"
+"► Facebook: http://ow.ly/Ty0Q30lc5TU\n"
+"► twitter: http://ow.ly/s5cV30lc5Vc\n"
+"► LinkedIn: http://ow.ly/GJfg30lc5WT\n"
+"► Pinterest: http://bit.ly/2I2b5N0\n"
+"\n"
+"About Us\n"
+"Cybrosys is enriched with technical experts and research scholars producing high-end quality software tools. Our sophisticated infrastructure and lab facilities constantly bring in new technological innovations and attributions. Partnership with ODOO, MICROSOFT, IBM, Intel, HP, NASSCOM proves our strength and excellence.\n"
+"\n"
+"We are Odoo Gold Partners standing par excellence in Odoo Implementation, Customization, and allied services. We do Source code sale and Employee outsourcing. The latest research and developments in Cybrosys are being conducted in Blockchain. Our robust quality product and services are widely used by clients residing across in India, USA, UK, Middle East &amp; Europe."
+msgstr ""
+
+#. module: open_academy
+#: model_terms:slide.slide,description:open_academy.slide_slide_odoo15_dev_24
+msgid ""
+"In this video, we will discuss How to create a Gantt View in odoo 15 and its use cases in odoo development. #odoo15ganttview\n"
+"\n"
+"In the early scenario, the business sector faced many challenges with respect to its project management or task management. \n"
+"#odoo15developmentvideos\n"
+"\n"
+"The people involved in the task- like Project Managers, Team Leaders, Operation Managers, Scheduling Managers, Work Managers, or Marketing Managers used paper to plan their schedules with colored blocks, which was quite hectic in terms of viewing the project progression. #odoo15videos\n"
+"\n"
+"Later came the innovation of Magnetic blocks and the popular Gantt planning tool for automating and streamlining every stage of the project, offering great relief to the project associates. \n"
+"\n"
+"The Gantt View for project scheduling thus helped the Project Managers and other project associates to save their time in viewing the project progress, clubbing together the similar tasks, or automating the process like adding milestones or identifying the project’s critical path. \n"
+"\n"
+"The application helped in \n"
+"generating a shareable project plan for quick view and analysis."
+msgstr ""
+
+#. module: open_academy
+#: model_terms:slide.slide,description:open_academy.slide_slide_odoo14_tips_15
+msgid ""
+"In this video, we will see how to hide a new or existing field inside One2many fields like sale order line with the help of an attribute called column_invisible.\n"
+"\n"
+"One2many field is a relational field, the value of such a field is the recordset of all the records in comodel_name such that the field inverse_name is equal to the current record.\n"
+"\n"
+"Parameters\n"
+"comodel_name (str) – name of the target model\n"
+"inverse_name (str) – name of the inverse Many2one field in comodel_name\n"
+"domain – an optional domain to set on candidate values on the client side (domain or string)\n"
+"context (dict) – an optional context to use on the client side when handling that field\n"
+"auto_join (bool) – whether JOINs are generated upon search through that field (default: False)\n"
+"limit (int) – optional limit to use upon read\n"
+"The attributes comodel_name and inverse_name are mandatory except in the case of related fields or field extensions.\n"
+"\n"
+" #odoofields #odoo13 #one2many\n"
+"For More Videos Subscribe to our YouTube channel."
+msgstr ""
+
+#. module: open_academy
+#: model_terms:slide.slide,description:open_academy.slide_slide_odoo15_dev_26
+msgid ""
+"In this video, we'll be discussing  Security Groups and access rights in odoo 15. \n"
+"#securityinodoo\n"
+"\n"
+"Video Contents\n"
+"0:21 Adding Models to CSV File\n"
+"0:53 Creating User Group\n"
+"4:32 Adding User to a Custom User Group\n"
+"5:15 Providing Access for User Groups\n"
+"#odoodevelopmentvideos #odoo15tutorials"
+msgstr ""
+
+#. module: open_academy
+#: model_terms:slide.slide,description:open_academy.slide_slide_odoo15_dev_13
+msgid ""
+"Inheritance means we are going to use or inherit the old class/model, properties, methods, and views in the new class/model. This concept is related to Object-Oriented Programming. In Odoo/ERP we extend properties, fields, and views of an existing model in a modular way.\n"
+"\n"
+"In this video, we are going to learn about traditional Prototype inheritance\n"
+"In this video, we are discussing what is a traditional prototype inheritance in odoo15 and its use cases in odoo development.\n"
+"\n"
+"#odooinheritance #odoodevelopment #odoo15"
+msgstr ""
+
+#. module: open_academy
+#: model:ir.model.fields,field_description:open_academy.field_openacademy_session__instructor_id
+#: model:ir.model.fields,field_description:open_academy.field_res_partner__instructor
+#: model:ir.model.fields,field_description:open_academy.field_res_users__instructor
+msgid "Instructor"
+msgstr "Instructor"
+
+#. module: open_academy
+#: model:ir.model.fields,field_description:open_academy.field_openacademy_course____last_update
+#: model:ir.model.fields,field_description:open_academy.field_openacademy_session____last_update
+#: model:ir.model.fields,field_description:open_academy.field_openacademy_wizard____last_update
+msgid "Last Modified on"
+msgstr "Última modificación el"
+
+#. module: open_academy
+#: model:ir.model.fields,field_description:open_academy.field_openacademy_course__write_uid
+#: model:ir.model.fields,field_description:open_academy.field_openacademy_session__write_uid
+#: model:ir.model.fields,field_description:open_academy.field_openacademy_wizard__write_uid
+msgid "Last Updated by"
+msgstr "Última actualización por"
+
+#. module: open_academy
+#: model:ir.model.fields,field_description:open_academy.field_openacademy_course__write_date
+#: model:ir.model.fields,field_description:open_academy.field_openacademy_session__write_date
+#: model:ir.model.fields,field_description:open_academy.field_openacademy_wizard__write_date
+msgid "Last Updated on"
+msgstr "Ultima actualización en"
+
+#. module: open_academy
+#: model_terms:slide.channel,description:open_academy.slide_channel_odoo_development
+#: model_terms:slide.channel,description_short:open_academy.slide_channel_odoo_development
+msgid "Learn how to build a module for Odoo 13"
+msgstr ""
+
+#. module: open_academy
+#: model_terms:slide.channel,description:open_academy.slide_channel_odoo14_development
+#: model_terms:slide.channel,description_short:open_academy.slide_channel_odoo14_development
+msgid "Learn how to build a module for Odoo 14"
+msgstr ""
+
+#. module: open_academy
+#: model_terms:slide.channel,description:open_academy.slide_channel_odoo15_development
+#: model_terms:slide.channel,description_short:open_academy.slide_channel_odoo15_development
+msgid "Learn how to build a module for Odoo 15"
+msgstr ""
+
+#. module: open_academy
+#: model_terms:slide.slide,description:open_academy.slide_slide_odoo14_dev_2
+msgid ""
+"Let us see the Step By Step Guide to configure and run Odoo 14 Project with #Pycharm Ubuntu.  We hope this video will help you to understand the installation process of Odoo 14.\n"
+"\n"
+"Check:\n"
+"👉 How to configure Odoo 15 project on Pycharm: https://youtu.be/eXVLsQhu0wQ\n"
+"👉 Download Odoo - https://github.com/odoo/odoo\n"
+"\n"
+"Odoo / OpenERP is a suite of enterprise management applications, targeting Small, Medium, and Multinational Enterprises encompassing several departments. Odoo ERP streamlines all management segments like Manufacturing, Finance, and Accounting, Purchase, Sales, Warehouse, Customer Relationship Management, Human Resource, Point of Sale, Ecommerce and Website, Project Management, Document Management under one roof, thereby improving the efficiency and productivity of an enterprise.\n"
+"\n"
+"Video Contents\n"
+"00:00 Introduction\n"
+"00:18 Configure Odoo 14 in PyCharm\n"
+"01:45 How to Open Odoo 14 as a Project in Pycharm\n"
+"04:00 How to Run Odoo 14 Project\n"
+"04:12 How to Create a Configuration File\n"
+"10:12 How to Run the Configured files\n"
+"13:10 Set two different Ports for Odoo Editions\n"
+"\n"
+"For more Video Tutorial Visit: https://www.cybrosys.com/odoo-development-tutorial/\n"
+"\n"
+"#howto  #configureodoo"
+msgstr ""
+
+#. module: open_academy
+#: model_terms:ir.ui.view,arch_db:open_academy.course_search_view
+msgid "My Courses"
+msgstr "Mis cursos"
+
+#. module: open_academy
+#: model:ir.model.fields,field_description:open_academy.field_openacademy_session__name
+msgid "Name"
+msgstr "Nombre"
+
+#. module: open_academy
+#: model:ir.model.fields,field_description:open_academy.field_openacademy_session__seats
+msgid "Number of seats"
+msgstr "Numero de asientos"
+
+#. module: open_academy
+#: model:slide.channel,name:open_academy.slide_channel_odoo_development
+msgid "Odoo 13 Development Tutorial"
+msgstr ""
+
+#. module: open_academy
+#: model_terms:slide.slide,description:open_academy.slide_slide_odoo_dev_11
+msgid ""
+"Odoo 13 inventory management is a resourceful module that can be utilized by any business organization irrespective of its size. It is designed in such a flexible manner. Odoo 13 inventory is fully integrated with other applications, such as Purchase, Sales, or Inventory.\n"
+"\n"
+"Get the module from our repository: https://github.com/CybroOdoo/openacademy\n"
+"\n"
+"This session discusses the Inventory management module in Odoo 13.\n"
+"\n"
+"Related videos\n"
+"How to make inventory adjustments in odoo13: https://www.youtube.com/watch?v=GvCSJLEW_6M\n"
+"How to scrap products in odoo13: https://www.youtube.com/watch?v=hVvSCMYQTzo&#13;\n"
+"How to setup reordering rules in odoo13: https://youtu.be/yEZl_FR69CQ&#13;\n"
+"Batch picking in Odoo13: https://youtu.be/dNhTGodjjSA&#13;\n"
+"How to configure landed cost  in odoo13: https://www.youtube.com/watch?v=9p7e17LHUD0\n"
+"\n"
+"Good inventory management also helps businesses to decrease their costs, pace up their success operations, and stop any possibilities of business fraud. However, managing the stock is now not that easy as we seem to be from outside. It has to go through various complex steps and follow-ups to preserve the right balance. Moreover, it is on the groundwork of your company’s inventory, the organizations survey their modern assets, supply economic reporting, balance the accounts.&#13;\n"
+"\n"
+"Thus it is a complex phenomenon in the inventory management of your business. But these complex proceedings can be simplified with an ERP solution. An enterprise resource planning software can reduce the overheads and optimize turns in the inventory. The automated management makes everything streamlined and ensures the right balance of stock in your warehouse. In the case of stock depletion, ERP takes care of stock replenishments with reordering rules and others.&#13;\n"
+"&#13;\n"
+"#odoodevelopment #odooinventory #odoo13\n"
+"For More Videos Subscribe to our YouTube channel. \n"
+"\n"
+"Visit our company website: https://www.cybrosys.com/\n"
+"\n"
+"Connect with us: \n"
+"Facebook: http://ow.ly/Ty0Q30lc5TU\n"
+"twitter: http://ow.ly/s5cV30lc5Vc\n"
+"LinkedIn: http://ow.ly/GJfg30lc5WT\n"
+"Pinterest: http://bit.ly/2I2b5N0"
+msgstr ""
+
+#. module: open_academy
+#: model:slide.channel,name:open_academy.slide_channel_odoo14_development
+msgid "Odoo 14 Development Tutorial"
+msgstr ""
+
+#. module: open_academy
+#: model:slide.channel,name:open_academy.slide_channel_odoo15_development
+msgid "Odoo 15 Development Tutorial"
+msgstr ""
+
+#. module: open_academy
+#: model_terms:slide.slide,description:open_academy.slide_slide_odoo14_dev_18
+msgid ""
+"Odoo Python Constraints ( api.constraints ) help to validate specific fields"
+" given as its parameters. It will return a message if the data is "
+"invalid.api.constraints trigger a python method where the validation "
+"conditions are checked."
+msgstr ""
+
+#. module: open_academy
+#: model_terms:slide.slide,description:open_academy.slide_slide_odoo_dev_16
+msgid ""
+"Odoo Python Constraints ( api.constraints ) helps to validate specific fields given as it's parameters. It will return a message if the data is invalid.api.constraints trigger a python method where the validation conditions are checked.\n"
+"\n"
+"Get the module from our repository: https://github.com/CybroOdoo/openacademy\n"
+"\n"
+"In this videos, you are going to learn odoo python constraints\n"
+"\n"
+"Related videos:\n"
+"Computed fields and @api.depends in Odoo 13: https://www.youtube.com/watch?v=eNEgnJGXf68&amp;t=7s\n"
+"View Inheritance in Odoo 13: https://www.youtube.com/watch?v=nTXZOSWhqQs&amp;t=181s\n"
+"Setting a default value for fields in Odoo 13: https://www.youtube.com/watch?v=pwgFTIKmH4g&amp;t=1s\n"
+"\n"
+"Odoo 14 Videos:\n"
+"Configure Odoo 14 Project on Pycharm Ubuntu: https://www.youtube.com/watch?v=UGg1j5RCXKk&amp;t=5s\n"
+"Building a Module in Odoo 14: https://www.youtube.com/watch?v=wwIniIlIrAc\n"
+"Composition of a module in Odoo 14: https://www.youtube.com/watch?v=8_M96X4O6XI\n"
+"Module Structure in Odoo 14: https://www.youtube.com/watch?v=1F0veP4EJ2Q&amp;t=160s\n"
+"Empty Module Structure Scaffold in Odoo 14: https://www.youtube.com/watch?v=fY-QQXT2clw\n"
+"\n"
+"#odoodevelopment #odootutorials #odoo13\n"
+"For More Videos Subscribe to our YouTube channel. \n"
+"\n"
+"Visit our company website: https://www.cybrosys.com/\n"
+"\n"
+"Connect with us: \n"
+"Facebook: http://ow.ly/Ty0Q30lc5TU\n"
+"twitter: http://ow.ly/s5cV30lc5Vc\n"
+"LinkedIn: http://ow.ly/GJfg30lc5WT\n"
+"Pinterest: http://bit.ly/2I2b5N0"
+msgstr ""
+
+#. module: open_academy
+#: model_terms:slide.slide,description:open_academy.slide_slide_odoo14_dev_19
+msgid ""
+"Odoo SQL Constraints can be used to add validation to data before saving it to the database. SQL constraints are a part of PostgreSQL.\n"
+"\n"
+"#odoo #odoodevelopmenttutorial #odootutorial"
+msgstr ""
+
+#. module: open_academy
+#: model_terms:slide.slide,description:open_academy.slide_slide_odoo_dev_17
+msgid ""
+"Odoo SQL Constraints can be used to add validation to data before saving to database.SQL constraints are a part of PostgreSQL.\n"
+"\n"
+"Get the module from our repository: https://github.com/CybroOdoo/openacademy\n"
+"\n"
+"Related Videos:\n"
+"Configure Odoo 14 Project on Pycharm Ubuntu: https://www.youtube.com/watch?v=UGg1j5RCXKk&amp;t=5s\n"
+"Building a Module in Odoo 14: https://www.youtube.com/watch?v=wwIniIlIrAc\n"
+"Composition of a module in Odoo 14: https://www.youtube.com/watch?v=8_M96X4O6XI\n"
+"Module Structure in Odoo 14: https://www.youtube.com/watch?v=1F0veP4EJ2Q&amp;t=160s\n"
+"Empty Module Structure Scaffold in Odoo 14: https://www.youtube.com/watch?v=fY-QQXT2clw\n"
+"\n"
+"#odoodevelopment #odoo13features #odootutorials\n"
+"For More Videos Subscribe to our YouTube channel. \n"
+"\n"
+"Visit our company website: https://www.cybrosys.com/\n"
+"\n"
+"Connect with us: \n"
+"Facebook: http://ow.ly/Ty0Q30lc5TU\n"
+"twitter: http://ow.ly/s5cV30lc5Vc\n"
+"LinkedIn: http://ow.ly/GJfg30lc5WT\n"
+"Pinterest: http://bit.ly/2I2b5N0"
+msgstr ""
+
+#. module: open_academy
+#: model:slide.channel,name:open_academy.slide_channel_odoo14_technical_tips
+msgid "Odoo Technical Tips"
+msgstr ""
+
+#. module: open_academy
+#: model_terms:slide.slide,description:open_academy.slide_slide_odoo14_dev_20
+msgid ""
+"Odoo Tree Views can take supplementary attributes to further customize their behavior:\n"
+"\n"
+"&#13;decoration-{$name}\n"
+"\n"
+"allow changing the style of a row’s text based on the corresponding record’s attributes. \n"
+"\n"
+"0:00 Introduction\n"
+"1:44 Tree view of course\n"
+"6:11 open the openacademy app to view the changes\n"
+"10:11 Give the value as top and view the changes\n"
+"17:20 Define model in the python file\n"
+"19:45 Define separate order for the list view\n"
+"\n"
+"In this video, we will discuss how you can add colors to the tree view based on conditions.\n"
+"\n"
+"As in the Odoo backend, we have a tree view for the listing of the records and a kanban view. The kanban view shows records as “cards”, midway between a list view and a non-editable form view.  \n"
+"\n"
+"In the list view, we have a default data grid table with rows and columns. if we have a requirement where we need to highlight certain rows in the list view based on certain conditions in the current model. We highlight the rows using colors.\n"
+"\n"
+"The decorators that can be used are\n"
+"\n"
+"decoration-it – ITALICS\n"
+"decoration-bf –  BOLD\n"
+"decoration-danger – LIGHT RED\n"
+"decoration-primary – LIGHT PURPLE\n"
+"decoration-info – LIGHT BLUE\n"
+"decoration-warning – LIGHT BROWN\n"
+"decoration-muted – LIGHT GRAY\n"
+"decoration-success – LIGHT GREEN"
+msgstr ""
+
+#. module: open_academy
+#: model_terms:slide.slide,description:open_academy.slide_slide_odoo_dev_18
+msgid ""
+"Odoo Tree Views can take supplementary attributes to further customize their behavior:&#13;\n"
+"\n"
+"&#13;decoration-{$name}&#13;\n"
+"\n"
+"allow changing the style of a row’s text based on the corresponding record’s attributes. \n"
+"\n"
+"In this video, we will discuss how you can add colors to the tree view based on conditions.\n"
+"\n"
+"Get the module from our repository: https://github.com/CybroOdoo/openacademy\n"
+"\n"
+"As in the Odoo backend, we have a tree view for the listing of the records and a kanban view. The kanban view shows records as “cards”, midway between a list view and a non-editable form view.  \n"
+"\n"
+"In the list view, we have a default data grid table with rows and columns. if we have a requirement where we need to highlight certain rows in the list view based on certain conditions in the current model. We highlight the rows using colors.\n"
+"\n"
+"The decorators that can be used are\n"
+"\n"
+"decoration-it – ITALICS\n"
+"decoration-bf –  BOLD\n"
+"decoration-danger – LIGHT RED\n"
+"decoration-primary – LIGHT PURPLE\n"
+"decoration-info – LIGHT BLUE\n"
+"decoration-warning – LIGHT BROWN\n"
+"decoration-muted – LIGHT GRAY\n"
+"decoration-success – LIGHT GREEN\n"
+"\n"
+"#odoodevelopment #odootreeview #odoo13\n"
+"For More Videos Subscribe to our YouTube channel. \n"
+"\n"
+"Related Videos:\n"
+"Configure Odoo 14 Project on Pycharm Ubuntu: https://www.youtube.com/watch?v=UGg1j5RCXKk&amp;t=5s\n"
+"Building a Module in Odoo 14: https://www.youtube.com/watch?v=wwIniIlIrAc\n"
+"Composition of a module in Odoo 14: https://www.youtube.com/watch?v=8_M96X4O6XI\n"
+"Module Structure in Odoo 14: https://www.youtube.com/watch?v=1F0veP4EJ2Q&amp;t=160s\n"
+"Empty Module Structure Scaffold in Odoo 14: https://www.youtube.com/watch?v=fY-QQXT2clw\n"
+"\n"
+"Visit our company website: https://www.cybrosys.com/\n"
+"\n"
+"Connect with us: \n"
+"Facebook: http://ow.ly/Ty0Q30lc5TU\n"
+"twitter: http://ow.ly/s5cV30lc5Vc\n"
+"LinkedIn: http://ow.ly/GJfg30lc5WT\n"
+"Pinterest: http://bit.ly/2I2b5N0"
+msgstr ""
+
+#. module: open_academy
+#: model_terms:slide.slide,description:open_academy.slide_slide_odoo14_dev_17
+msgid ""
+"Odoo api.onchange decorator is used to invoke a method when a field's value changed. It can be used to validate the data or to trigger an action\n"
+"A detailed explanation of the technical and functional aspects of the Onchange mechanical of Odoo. Furthermore, an insight into the Odoo api.onchange decorator operations which are used to invoke a method when a field's value changes in the platform\n"
+"#odoodevelopement #odoo #odoo14"
+msgstr ""
+
+#. module: open_academy
+#: model_terms:slide.slide,description:open_academy.slide_slide_odoo_dev_15
+msgid ""
+"Odoo api.onchange decorator is used to invoke a method when a field's value changed. It can be used to validate the data or to trigger an action.\n"
+"\n"
+"Get the module from our repository: https://github.com/CybroOdoo/openacademy\n"
+"\n"
+"This video explains about the onchange mechanism: @api.onchange in Odoo\n"
+"\n"
+"Related videos:\n"
+"Computed fields and @api.depends in Odoo 13: https://www.youtube.com/watch?v=eNEgnJGXf68&amp;t=7s\n"
+"View Inheritance in Odoo 13: https://www.youtube.com/watch?v=nTXZOSWhqQs&amp;t=181s\n"
+"Setting default value for fields in Odoo 13: https://www.youtube.com/watch?v=pwgFTIKmH4g&amp;t=1s\n"
+"\n"
+"Odoo 14 Videos:\n"
+"Configure Odoo 14 Project on Pycharm Ubuntu: https://www.youtube.com/watch?v=UGg1j5RCXKk&amp;t=5s\n"
+"Building a Module in Odoo 14: https://www.youtube.com/watch?v=wwIniIlIrAc\n"
+"Composition of a module in Odoo 14: https://www.youtube.com/watch?v=8_M96X4O6XI\n"
+"Module Structure in Odoo 14: https://www.youtube.com/watch?v=1F0veP4EJ2Q&amp;t=160s\n"
+"Empty Module Structure Scaffold in Odoo 14: https://www.youtube.com/watch?v=fY-QQXT2clw\n"
+"\n"
+"#odoodevelopment #odootutorials #odoo13\n"
+"For More Videos Subscribe to our YouTube channel. \n"
+"\n"
+"Visit our company website: https://www.cybrosys.com/\n"
+"\n"
+"Connect with us: \n"
+"Facebook: http://ow.ly/Ty0Q30lc5TU\n"
+"twitter: http://ow.ly/s5cV30lc5Vc\n"
+"LinkedIn: http://ow.ly/GJfg30lc5WT\n"
+"Pinterest: http://bit.ly/2I2b5N0"
+msgstr ""
+
+#. module: open_academy
+#: model_terms:slide.slide,description:open_academy.slide_slide_odoo_dev_29
+#: model_terms:slide.slide,description:open_academy.slide_slide_odoo_dev_30
+msgid ""
+"Odoo development tutorials - Types of Actions in Odoo\n"
+"\n"
+"Get the module from our repository: https://github.com/CybroOdoo/openacademy\n"
+"\n"
+"Automated Actions (ir.cron)\n"
+"Actions triggered automatically on a predefined frequency.\n"
+"\n"
+"name\n"
+"Name of the automated action (Mainly used in log display)\n"
+"\n"
+"interval_number\n"
+"Number of interval_type uom between two executions of the action\n"
+"\n"
+"interval_type\n"
+"Unit of measure of frequency interval (minutes, hours, days, weeks, months,\n"
+"\n"
+"numbercall\n"
+"Number of times this action has to be run. If the action is expected to run indefinitely, set to -1.\n"
+"\n"
+"doall\n"
+"Boolean precising whether the missed actions have to be executed in case of server restarts.\n"
+"\n"
+"model_id\n"
+"Model on which this action will be called\n"
+"\n"
+"code\n"
+"Code content of the action. Can be a simple call to the model’s method :\n"
+"\n"
+"model.method_name()\n"
+"\n"
+"nextcall\n"
+"Next planned execution date of this action (date/time format)\n"
+"\n"
+"#odoodevelopment #odootutorials #odoo13\n"
+"For More Videos Subscribe to our YouTube channel. \n"
+"\n"
+"Visit our company website: https://www.cybrosys.com/\n"
+"\n"
+"Connect with us: \n"
+"Facebook: http://ow.ly/Ty0Q30lc5TU\n"
+"twitter: http://ow.ly/s5cV30lc5Vc\n"
+"LinkedIn: http://ow.ly/GJfg30lc5WT\n"
+"Pinterest: http://bit.ly/2I2b5N0"
+msgstr ""
+
+#. module: open_academy
+#: model_terms:slide.slide,description:open_academy.slide_slide_odoo15_dev_18
+msgid ""
+"Odoo helps you to set validations to recordsets with the help of python and model constraints. Mainly there are two ways in which constraints can be set to variants in Odoo. They are python and SQL constraints.\n"
+"#odoo15developmentvideos\n"
+"\n"
+"Basically python constraints are set in odoo using the class decorator api.constrains() which takes in the field name as arguments and applies the validation conditions to the fields specified inside the method.\n"
+"#pythonconstraints\n"
+"\n"
+"In this video, we'll be discussing how we can apply such constraints to our odoo models and fields.\n"
+"#odoo15technicalvideos"
+msgstr ""
+
+#. module: open_academy
+#: model_terms:slide.slide,description:open_academy.slide_slide_odoo14_tips_9
+msgid ""
+"Odoo is one of the best ERP available with advanced translation tools. The language translation in Odoo is a feature to translate words, labels, and strings in our required language. i.e.; with Odoo we can easily translate text strings in one language to another language without any extra customizations\n"
+"\n"
+"Reference Blog:\n"
+"https://www.cybrosys.com/blog/language-translation-in-odoo\n"
+"\n"
+"#odoo14 #odoo #odoo14features"
+msgstr ""
+
+#. module: open_academy
+#: model_terms:slide.slide,description:open_academy.slide_slide_odoo15_dev_19
+msgid ""
+"Odoo provided constraints with which we can add validations to Odoo models. Basically, Odoo provides two ways to apply constraints, namely python constraints, and SQL constraints.\n"
+"\n"
+"In this video, we'll be discussing what are SQL constraints in odoo, how we can apply them to our models, and different methods used in SQL constraints.\n"
+"\n"
+"Video Chapters\n"
+"0:00 Introduction\n"
+"0:43 Setting SQL Constraints in models"
+msgstr ""
+
+#. module: open_academy
+#: model_terms:slide.slide,description:open_academy.slide_slide_odoo15_dev_25
+msgid ""
+"Odoo supports several views such as tree view, list view, kanban view, cohort view, pivot view, calendar view offering different styles of data representation. #odoo15kanbanview\n"
+"\n"
+"In addition, this helps the businesses at large, offering complete visibility of their operations, thereby smarter business decisions. \n"
+"#odoo15development\n"
+"\n"
+"In this video, we are discussing how to create a kanban view in odoo15 and its use cases in odoo development.\n"
+"#odootutorials"
+msgstr ""
+
+#. module: open_academy
+#: model:ir.ui.menu,name:open_academy.main_openacademy_menu
+#: model:ir.ui.menu,name:open_academy.openacademy_menu
+msgid "Open Academy"
+msgstr "Academia Abierta"
+
+#. module: open_academy
+#: model:res.groups,name:open_academy.group_manager
+msgid "OpenAcademy / Manager"
+msgstr "Academia Abierta / Gerente"
+
+#. module: open_academy
+#: model:ir.model,name:open_academy.model_openacademy_course
+msgid "OpenAcademy Courses"
+msgstr "Cursos de Academia Abierta"
+
+#. module: open_academy
+#: model:ir.model,name:open_academy.model_openacademy_session
+msgid "OpenAcademy Sessions"
+msgstr "Sesiones de Academia Abierta"
+
+#. module: open_academy
+#: model_terms:ir.ui.view,arch_db:open_academy.openacademy_session_graph_view
+msgid "Participations by Courses"
+msgstr "Participaciones por Cursos"
+
+#. module: open_academy
+#: model_terms:ir.ui.view,arch_db:open_academy.course_form_view
+msgid "Registered Sessions"
+msgstr "Sesiones Registradas"
+
+#. module: open_academy
+#: model:ir.model.fields,field_description:open_academy.field_openacademy_course__responsible_id
+#: model_terms:ir.ui.view,arch_db:open_academy.course_search_view
+msgid "Responsible"
+msgstr "Responsable"
+
+#. module: open_academy
+#: model_terms:ir.ui.view,arch_db:open_academy.session_form_view
+msgid "Schedule"
+msgstr "Calendario"
+
+#. module: open_academy
+#: model_terms:slide.slide,description:open_academy.slide_slide_odoo14_tips_17
+msgid ""
+"Securing the database is very important to keep data safe in odoo and to isolate customer databases running on the same cluster. So we need to make the best practices in terms of users, passwords, access control management.\n"
+"\n"
+"Video Contents:\n"
+"00:00 Introduction\n"
+"00:35 Key points to secure Odoo 13 database\n"
+"01:27 Secure Odoo 13 Database\n"
+"01:48 Configuration of Odoo Config file\n"
+"10:39 Configuration of PostgreSQL\n"
+"13:00 Connection Settings of PostgreSQL Configuration\n"
+"16:12  Security and Authentication for PostgreSQL\n"
+"\n"
+"First, let us go through some key points related to securing the Odoo 13 database:\n"
+"\n"
+"Set a strong super-admin password, and restrict access to the database management pages as soon as the system is set up\n"
+"Unique logins and strong passwords for all admin accounts on all databases\n"
+"\n"
+"Better not to install demo data that may contain default logins and passwords which is not secure to use\n"
+"\n"
+"Use database filters to restrict the visibility of your databases according to the hostname\n"
+"\n"
+"Make sure the PostgreSQL user (db_user) is not a super-user\n"
+"\n"
+"Now let us discuss the configurations that can be done to enhance the security of the database:\n"
+"\n"
+"In odoo.config file adds some database settings which include:\n"
+"\n"
+"admin_password-- admin_password is a master database password that is set at first boot and can be set from front end also.It is used to manage the databases ie. To create,duplicate,delete,backup and restore databases.\n"
+"\n"
+"db_host--To specify the database host.By default it is localhost\n"
+"db_port--The database port(by default it is None)\n"
+"db_user--Database User name\n"
+"db_password--Database password for db_user\n"
+"db_maxconn--Maximum number of physical connections to postgresql\n"
+"\n"
+"\n"
+"db_name and db_filter:\n"
+"\n"
+"It is used to determine which database should be used to load the website page\n"
+"\n"
+"Database should be selected based on the hostname (domain) that is being requested.Odoo is an multi-tenant system that run and serve a number of database instances which is not an issue for a logged in company user who can log-in and select the databases.But users like website users and portal users are not bound to the database.So it is neccessery to decide which database needed to be used to load the website page.\n"
+" db_filter value contains a regular expression, that includes the dynamically injected hostname (%h) or the first subdomain (%d) through which the system is being accessed.\n"
+"\n"
+"Following can be added to the configuration file\n"
+"\n"
+"[options]\n"
+"\n"
+"db_filter = ^yourcompany.*$  (It shows only databases matching the first subdomain)\n"
+"db_name=yourcompany ( This database only will be loaded)\n"
+"\n"
+"If db_name value is given as false, then all databases are loaded\n"
+"\n"
+"See the changes by restarting the service\n"
+"\n"
+"\n"
+"Configuring PostgreSQL\n"
+"\n"
+"In pg_hba.conf file:\n"
+"\n"
+"Here you can add local connections with address, methods and it is possible to allow replication connection from local host by a user with replication privilage.\n"
+"\n"
+"In postgresql.conf file:\n"
+" \n"
+"Connections and Authentication settings\n"
+"\n"
+"Set the following in your configuration file:\n"
+"\n"
+"Connection Settings:\n"
+"\n"
+"listen_addresses (string)\n"
+"port (integer)\n"
+"max_connections (integer)\n"
+"superuser_reserved_connections (integer)\n"
+"unix_socket_directories (string)\n"
+"unix_socket_group (string)\n"
+"unix_socket_permissions (integer)\n"
+"bonjour (boolean)\n"
+"bonjour_name (string)\n"
+"tcp_keepalives_idle (integer)\n"
+"tcp_keepalives_interval (integer)\n"
+"tcp_keepalives_count (integer)\n"
+"\n"
+"\n"
+"Security and Authentication:\n"
+"\n"
+"authentication_timeout (integer)\n"
+"ssl (boolean)\n"
+"ssl_ca_file (string)\n"
+"ssl_cert_file (string)\n"
+"ssl_crl_file (string)\n"
+"ssl_key_file (string)\n"
+"ssl_ciphers (string)\n"
+"ssl_prefer_server_ciphers (bool)\n"
+"ssl_ecdh_curve (string)\n"
+"password_encryption (boolean)\n"
+"krb_server_keyfile (string)\n"
+"krb_caseins_users (boolean)\n"
+"db_user_namespace (boolean)\n"
+"\n"
+"\n"
+"#odoodatabase #odoosecurity #odoo13"
+msgstr ""
+
+#. module: open_academy
+#: model_terms:slide.slide,description:open_academy.slide_slide_odoo_dev_26
+msgid ""
+"Security - Groups and access rights in odoo\n"
+"\n"
+"Security access in Odoo is configured through security groups: permissions are given to groups and then groups are assigned to users. Odoo has a lot of groups. Once you know about groups, you can select groups from the list of groups.\n"
+"\n"
+"Security is a major concern when an application is considered. We can control what the user can do and what users can't-do on a different level. Control independently each of the four basic operations: read, write, create, and unlink. I.e. allow only read, allow only create, grant permission to create or delete only. Also, we can hide fields or menus for some users and show them for others, make fields read-only for some users and make them editable for others. We use groups to control users.\n"
+"\n"
+"Get the module from our repository: https://github.com/CybroOdoo/openacademy\n"
+"\n"
+"Aside from manually managing access using custom code, Odoo provides two main data-driven mechanisms to manage or restrict access to data.\n"
+"\n"
+"Each access control has a model to which it grants permissions, the permissions it grants and optionally a group.\n"
+"\n"
+"If no group is specified, the access control applies to all users, otherwise, it only applies to the members of the given group.\n"
+"\n"
+"In Odoo, views and menus are restricted to a user due to access right permission. Only admin has the right to view all records. Access right permission is managed by creating an ir.model.access.csv file.\n"
+"\n"
+"This file can\n"
+"\n"
+"a) Grant permission like reading, write, update, and delete to a model.\n"
+"\n"
+"b) Can assign groups. If no group is assigned access right is applicable for all users. Else applicable only for users in that particular group\n"
+"\n"
+"Available permissions are creation (perm_create), searching and reading (perm_read), updating existing records (perm_write) and deleting existing records (perm_unlink)\n"
+"\n"
+"#odoodevelopment #odootutorials #odoo13\n"
+"For More Videos Subscribe to our YouTube channel. \n"
+"\n"
+"Visit our company website: https://www.cybrosys.com/\n"
+"\n"
+"Connect with us: \n"
+"Facebook: http://ow.ly/Ty0Q30lc5TU\n"
+"twitter: http://ow.ly/s5cV30lc5Vc\n"
+"LinkedIn: http://ow.ly/GJfg30lc5WT\n"
+"Pinterest: http://bit.ly/2I2b5N0\n"
+"\n"
+"About Us\n"
+"Cybrosys is enriched with technical experts and research scholars producing high-end quality software tools. Our sophisticated infrastructure and lab facilities constantly bring in new technological innovations and attributions. Partnership with ODOO, MICROSOFT, IBM, Intel, HP, NASSCOM proves our strength and excellence.\n"
+"\n"
+"We are Odoo Gold Partners standing par excellence in Odoo Implementation, Customization, and allied services. We do Source code sale, Custom software development, and Employee outsourcing. The latest research and developments in Cybrosys are being conducted in Blockchain. Our robust quality product and services are widely used by clients residing across in India, USA, UK, Middle East &amp; Europe."
+msgstr ""
+
+#. module: open_academy
+#: model_terms:slide.slide,description:open_academy.slide_slide_odoo14_dev_26
+msgid ""
+"Security access in Odoo is configured through security groups: permissions are given to groups and then groups are assigned to users. Odoo has a lot of groups. Once you know about groups, you can select groups from the list of groups.\n"
+"\n"
+"Security is a major concern when an application is considered. We can control what the user can do and what users can't-do on a different level. Control independently each of the four basic operations: read, write, create, and unlink. I.e. allow only read, allow only create, grant permission to create or delete only. Also, we can hide fields or menus for some users and show them for others, make fields read-only for some users and make them editable for others. We use groups to control users.\n"
+"\n"
+"Video Contents\n"
+"00:00 Introduction\n"
+"01:21 How to disable a Specific Group\n"
+"02:18 How to Create Access Rights using User Interface\n"
+"06:45 How to add Access Rights\n"
+"\n"
+"\n"
+"#odoo #odoosecurity #odoodevelopment"
+msgstr ""
+
+#. module: open_academy
+#: model:ir.model.fields,field_description:open_academy.field_openacademy_wizard__session_ids
+msgid "Session"
+msgstr "Sesión"
+
+#. module: open_academy
+#: model_terms:ir.ui.view,arch_db:open_academy.session_calendar_view
+msgid "Session Calendar"
+msgstr "Calendario de Sesiones"
+
+#. module: open_academy
+#: model:ir.actions.act_window,name:open_academy.open_board_session
+#: model:ir.ui.menu,name:open_academy.menu_board_session
+#: model_terms:ir.ui.view,arch_db:open_academy.board_session_form
+msgid "Session Dashboard"
+msgstr "Tablero de Sesiones"
+
+#. module: open_academy
+#: model_terms:ir.ui.view,arch_db:open_academy.session_form_view
+msgid "Session Form"
+msgstr "Formulario de Sesión"
+
+#. module: open_academy
+#: model_terms:ir.ui.view,arch_db:open_academy.session_gantt_view
+msgid "Session Gantt"
+msgstr "Gantt de Sesión"
+
+#. module: open_academy
+#: model:ir.actions.report,name:open_academy.report_session
+msgid "Session Report"
+msgstr "Informe de Sesión"
+
+#. module: open_academy
+#: model_terms:ir.ui.view,arch_db:open_academy.session_tree_view
+msgid "Session Tree"
+msgstr "Árbol de sesión"
+
+#. module: open_academy
+#: model_terms:ir.ui.view,arch_db:open_academy.view_openacad_session_kanban
+msgid "Session name:"
+msgstr "Nombre de la Sesión:"
+
+#. module: open_academy
+#: model:ir.actions.act_window,name:open_academy.act_session_calendar
+#: model:ir.actions.act_window,name:open_academy.session_list_action
+#: model:ir.model.fields,field_description:open_academy.field_openacademy_course__session_ids
+#: model:ir.ui.menu,name:open_academy.session_menu
+#: model_terms:ir.ui.view,arch_db:open_academy.board_session_form
+#: model_terms:ir.ui.view,arch_db:open_academy.course_form_view
+#: model_terms:ir.ui.view,arch_db:open_academy.partner_instructor_form_view
+msgid "Sessions"
+msgstr "Sesiones"
+
+#. module: open_academy
+#: model_terms:slide.slide,description:open_academy.slide_slide_odoo14_tips_16
+msgid ""
+"Sometimes in certain cases, we might need to make all fields of a model readonly in a particular state or a condition. This video discusses on how to do that without having to give conditions for each field in the model to be readonly. It's done bypassing \"turn_view_readonly\" through context. Watch the full video to learn more.\n"
+"\n"
+"\n"
+"Open ERP popularly known as Odoo, brings all the communication department under one roof. Odoo facilitates every business activities in more efficient and effective manner. But in order to implement an Odoo ERP to your business and enjoy its benefit, you need the help of a best Odoo Consultant, who can provide you the best Odoo implementation packages suiting your business needs. An Odoo consultant tailors the ERP implementation taking note of business success by streamlining every function.\n"
+"\n"
+"For Odoo Consultation Services: https://www.cybrosys.com/odoo/odoo-licensing-consultancy/\n"
+"\n"
+"#odoofields #odoo13 #odootechnical\n"
+"For More Videos Subscribe to our YouTube channel. \n"
+"\n"
+"Visit our company website: https://www.cybrosys.com/\n"
+"\n"
+"Connect with us: \n"
+"Facebook: http://ow.ly/Ty0Q30lc5TU\n"
+"twitter: http://ow.ly/s5cV30lc5Vc\n"
+"LinkedIn: http://ow.ly/GJfg30lc5WT\n"
+"Pinterest: http://bit.ly/2I2b5N0"
+msgstr ""
+
+#. module: open_academy
+#: model_terms:slide.slide,description:open_academy.slide_slide_odoo14_tips_23
+msgid ""
+"Sometimes we may need to add some related records of other models in our current form view. In Odoo we can do it easily with the help of smart buttons. Smart buttons allow you to see all the related records in the form view. We can also add a counter to count the number of records present in it. It is very useful to navigate to related documents or data very quickly. In this video, we can check how to add a smart button to the existing module.\n"
+"\n"
+"Video Content:\n"
+"0:00 Introduction\n"
+"0:27 Open sales module and goto quotation\n"
+"2:42 Open employee dependent\n"
+"5:00 How to enable developer mode?\n"
+"14:55 Create smart button"
+msgstr ""
+
+#. module: open_academy
+#: model:ir.model.fields,field_description:open_academy.field_openacademy_session__start_date
+msgid "Start Date"
+msgstr "Fecha de Inicio"
+
+#. module: open_academy
+#: model_terms:slide.slide,description:open_academy.slide_slide_odoo14_tips_22
+msgid ""
+"Step By Step Guide to Install Odoo 12 with Pycharm\n"
+"Video Contents:\n"
+"00:00 Introduction\n"
+"01:14 How to download Odoo Community Edition\n"
+"03:46 Creating a Confi file inside Odoo Project\n"
+"13:17 Import Project to Pycharm\n"
+"23:06 Installing a Module\n"
+"\n"
+"Download odoo - https://github.com/odoo/odoo\n"
+"\n"
+"#runodoo #odoocommunity #odoo\n"
+"More videos Subscribe to our YouTube channel. \n"
+"\n"
+"Visit our company website: https://www.cybrosys.com/\n"
+"\n"
+"Connect with us: \n"
+"Facebook: http://ow.ly/Ty0Q30lc5TU\n"
+"twitter: http://ow.ly/s5cV30lc5Vc\n"
+"LinkedIn: http://ow.ly/GJfg30lc5WT\n"
+"Pinterest: http://bit.ly/2I2b5N0\n"
+"Instagram: http://ow.ly/RPzV30lc6z"
+msgstr ""
+
+#. module: open_academy
+#: model_terms:slide.slide,description:open_academy.slide_slide_odoo_dev_2
+msgid ""
+"Step By Step Guide to configure Odoo 13 with Pycharm Ubuntu 18\n"
+"\n"
+"Download odoo - https://github.com/odoo/odoo\n"
+"\n"
+"for more reference - https://www.cybrosys.com/blog/install-odoo-13-on-ubuntu-18-04\n"
+"\n"
+"Related Videos:\n"
+"Configure Odoo 14 Project on Pycharm Ubuntu: https://www.youtube.com/watch?v=UGg1j5RCXKk&amp;t=5s\n"
+"Building a Module in Odoo 14: https://www.youtube.com/watch?v=wwIniIlIrAc\n"
+"Composition of a module in Odoo 14: https://www.youtube.com/watch?v=8_M96X4O6XI\n"
+"Module Structure in Odoo 14: https://www.youtube.com/watch?v=1F0veP4EJ2Q&amp;t=160s\n"
+"Empty Module Structure Scaffold in Odoo 14: https://www.youtube.com/watch?v=fY-QQXT2clw\n"
+"\n"
+"#odoo13 #pycharmubuntu #installodoo\n"
+"More videos Subscribe to our YouTube channel. \n"
+"\n"
+"Visit our company website: https://www.cybrosys.com/\n"
+"\n"
+"Connect with us: \n"
+"Facebook: http://ow.ly/Ty0Q30lc5TU\n"
+"twitter: http://ow.ly/s5cV30lc5Vc\n"
+"LinkedIn: http://ow.ly/GJfg30lc5WT\n"
+"Pinterest: http://bit.ly/2I2b5N0\n"
+"Instagram: http://ow.ly/RPzV30lc6z"
+msgstr ""
+
+#. module: open_academy
+#: model_terms:ir.ui.view,arch_db:open_academy.wizard_form_view
+msgid "Subscribe"
+msgstr "Suscribir"
+
+#. module: open_academy
+#: model:ir.model.fields,field_description:open_academy.field_openacademy_session__taken_seats
+msgid "Taken seats"
+msgstr "Asientos Ocupados"
+
+#. module: open_academy
+#: model_terms:slide.slide,description:open_academy.slide_slide_odoo14_tips_20
+msgid ""
+"The Odoo 14 has been recently released and the new version of Odoo is the fastest and most advanced software of all time. This video will describe the installation of Odoo to be useful in the Ubuntu 20.04 LTS. The descriptive content along with step by step explanation will provide you with complete knowledge on how to obtain the software for installation and will provide an insight into the allocated operations. #odoo14installation\n"
+"\n"
+"Video Contents:\n"
+"00:00 Introduction #OdooInstallation\n"
+"01:25 Update server\n"
+"01:55 Secure System &amp; Creating a System User\n"
+"02:30 Install Packages &amp; Libraries\n"
+"03:23 PostgreSQL Installation\n"
+"06:56 Installation of Python Requirements\n"
+"12:44 How to Configure Odoo 14?\n"
+"15:19 How to Run Odoo 14?\n"
+"\n"
+"Read Blog: https://www.cybrosys.com/blog/how-to-install-odoo-14-on-ubuntu-20-04-lts\n"
+"\n"
+"#odoo14 #ubuntu #odoo14installation #installodoo #configureodoo #howtoinstallodoo"
+msgstr ""
+
+#. module: open_academy
+#: model:ir.model.constraint,message:open_academy.constraint_openacademy_course_name_unique
+msgid "The course title must be unique"
+msgstr "El título del curso debe ser único."
+
+#. module: open_academy
+#: model_terms:slide.slide,description:open_academy.slide_slide_odoo14_dev_25
+msgid ""
+"The kanban view is a kanban board visualization: it displays records as “cards”, halfway between a list view and a non-editable form view. view of your projects, opportunities, or leads. With a selected pipeline at the top, Records may be grouped in columns for use in workflow visualization or manipulation  (e.g. tasks or work-progress management), or ungrouped (used simply to visualize records).\n"
+"\n"
+"#odookanbanview #odoo #odoo14 #odoodevelopment #kanbanviewodoo14"
+msgstr ""
+
+#. module: open_academy
+#: model_terms:slide.slide,description:open_academy.slide_slide_odoo_dev_24
+msgid ""
+"The kanban view is a kanban board visualization: it displays records as “cards”, halfway between a list view and a non-editable form view. view of your projects, opportunities, or leads. With a selected pipeline at the top, Records may be grouped in columns for use in workflow visualization or manipulation  (e.g. tasks or work-progress management), or ungrouped (used simply to visualize records).\n"
+"\n"
+"Get the module from our repository: https://github.com/CybroOdoo/openacademy\n"
+"\n"
+"ℹ️ For more detailed information pls check our blog \n"
+"Blog Link: https://www.cybrosys.com/blog/advanced-kanban-view-odoo-13\n"
+"\n"
+"You can move a project or opportunity to the next stage by clicking and dragging it over. When you drop it under a stage with activity sets, the tasks and events in the set will be created.\n"
+"\n"
+"Get the module from our repository: https://github.com/CybroOdoo/openacademy\n"
+"\n"
+"The root element of the Kanban view is 〈kanban〉, it can use the following attributes:\n"
+"\n"
+"default_group_by\n"
+"    whether the kanban view should be grouped if no grouping is specified via the action or the current search. Should be the name of the field to group by when no grouping is otherwise specified\n"
+"\n"
+"default_order\n"
+"    cards sorting order used if the user has not already sorted the records (via the list view)\n"
+"\n"
+"class\n"
+"    adds HTML classes to the root HTML element of the Kanban view\n"
+"\n"
+"group_create\n"
+"    whether the “Add a new column” bar is visible or not. Default: true.\n"
+"\n"
+"group_delete\n"
+"    whether groups can be deleted via the context menu. Default: true.\n"
+"\n"
+"group_edit\n"
+"    whether groups can be edited via the context menu. Default: true.\n"
+"\n"
+"archivable\n"
+"    whether records belonging to a column can be archived / restored if an active field is defined on the model. Default: true.\n"
+"\n"
+"quick_create\n"
+"    whether it should be possible to create records without switching to the form view. By default, quick_create is enabled when the Kanban view is grouped by many2one, selection, char or boolean fields, and disabled when not.\n"
+"\n"
+"records_draggable\n"
+"    whether it should be possible to drag records when kanban is grouped. Default: true.\n"
+"    Set to true to always enable it, and to false to always disable it.\n"
+"\n"
+"#odoodevelopment #odootutorials #odoo13 \n"
+"For More Videos Subscribe to our YouTube channel. \n"
+"\n"
+"Visit our company website: https://www.cybrosys.com/\n"
+"\n"
+"Connect with us: \n"
+"Facebook: http://ow.ly/Ty0Q30lc5TU\n"
+"twitter: http://ow.ly/s5cV30lc5Vc\n"
+"LinkedIn: http://ow.ly/GJfg30lc5WT\n"
+"Pinterest: http://bit.ly/2I2b5N0\n"
+"\n"
+"About Us\n"
+"Cybrosys is enriched with technical experts and research scholars producing high-end quality software tools. Our sophisticated infrastructure and lab facilities constantly bring in new technological innovations and attributions. Partnership with ODOO, MICROSOFT, IBM, Intel, HP, NASSCOM proves our strength and excellence.\n"
+"\n"
+"We are Odoo Gold Partners standing par excellence in Odoo Implementation, Customization, and allied services. We do Source code sale, Custom software development, and Employee outsourcing. The latest research and developments in Cybrosys are being conducted in Blockchain. Our robust quality product and services are widely used by clients residing across in India, USA, UK, Middle East &amp; Europe"
+msgstr ""
+
+#. module: open_academy
+#: model_terms:slide.slide,description:open_academy.slide_slide_odoo14_tips_14
+msgid ""
+"The key objective behind Odoo Technical Training is to literate the Odoo Developers, Partners, and other public on the OWL(Odoo Web Library) framework.  \n"
+"\n"
+"The training envisions sharing how to Build an OWL Project.\n"
+"Course Content:\n"
+"1) Introduction to OWL  1:07\n"
+"2) Setting Up an OWL Project 8:47\n"
+"3) What’s new in #Odoo15Js \n"
+"4) OWL Components 13:35\n"
+"    a) Reactive System 14:34\n"
+"    b) Properties 25:08\n"
+"    c) Static Properties\n"
+"    d) Methods 33:12\n"
+"    e) Lifecycle 37:19\n"
+"    f) Root Component\n"
+"    g) Composition\n"
+"    h) Form Input Bindings 45:20\n"
+"    i) References\n"
+"    j) Dynamic sub components\n"
+"    k) Functional Components\n"
+"    l) SVG components\n"
+"5) Reference 52:10\n"
+"    a) Animations\n"
+"    b) Browser\n"
+"    c) Component\n"
+"    d) Content\n"
+"    e) Concurrency Model\n"
+"    f) Configuration\n"
+"    g) Environment\n"
+"    h) Event Bus\n"
+"    i) Event Handling\n"
+"    j) Error Handling\n"
+"    k) Mounting a component\n"
+"    l) Miscellaneous Components\n"
+"    m)Observer\n"
+"    n) Props\n"
+"    o) Props Validation\n"
+"    p) Utils\n"
+"6) Context\n"
+"    a) Rendering Components\n"
+"    b) Semantics\n"
+"    c) Asynchronous Rendering\n"
+"7) Store\n"
+"8) Qweb 1:20:35\n"
+"    a) QWeb Templating Language\n"
+"    b) QWeb Engine\n"
+"9) Tags\n"
+"10) Slots\n"
+"11) Event Handling\n"
+"    a) Event Handling\n"
+"    b) Business DOM Events\n"
+"    c) Inline Event Handlers\n"
+"    d) Modifiers\n"
+"12) Hooks 1:31:22\n"
+"    a) OWL Hooks\n"
+"    b) Making customized hooks\n"
+"13) Creating an application using OWL \n"
+"\n"
+"#odoo #odoo15 #odoofunctional #odootutorials  #owl #odoo15owl #cybrosys #cybrosystutorials #owltutotrials #odooowl"
+msgstr ""
+
+#. module: open_academy
+#: model:ir.model.constraint,message:open_academy.constraint_openacademy_course_name_description_check
+msgid "The title of the course should not be the description"
+msgstr "El título del curso no debe ser la descripción."
+
+#. module: open_academy
+#: model_terms:slide.slide,description:open_academy.slide_slide_odoo14_tips_13
+msgid ""
+"The training will cover the different aspects of Odoo Web Controller and create a strong knowledge base for attendees.\n"
+"\n"
+"Controllers are used to configuring the front-end modules. These frontend modules come integrated with the backend modules. For example, if we need to bring the details of Products, Sale Orders, Events, etc.  we can’t use the functionality of ‘Models’, so we need controller functions for this.\n"
+"\n"
+"By using controllers, we can easily define the link between any URL and the webpages.\n"
+"\n"
+"Main Contents of the webinar :\n"
+"1.  What is Controllers\n"
+"2.  Basic Controller Structure\n"
+"3.  Controller Parameters\n"
+"4.  Authentication types in controllers\n"
+"5.  Creating a controller and linking web pages\n"
+"6.  How can override an existing controller\n"
+"7.  Pagination in website\n"
+"8.  Search operation in website pages\n"
+"\n"
+"#odoo14 #odoo #odoo14features"
+msgstr ""
+
+#. module: open_academy
+#: model_terms:slide.slide,description:open_academy.slide_slide_odoo14_tips_1
+msgid ""
+"The video explains how to create a website using Odoo 14. Odoo 14 is a comprehensive solution for all your website-related worries. This open-source ERP solution helps to design catchy websites within the shortest time. You have to install the website module and the video explains how to install the Odoo 14 Website module.\n"
+"\n"
+"Video Contents:\n"
+"00:00 Introduction\n"
+"00:51 Website Module Installation &amp; Theme Choosing     \n"
+"02:16 Configuration of Website\n"
+"03:58 Designing a Website"
+msgstr ""
+
+#. module: open_academy
+#: model_terms:slide.slide,description:open_academy.slide_slide_odoo14_dev_9
+msgid ""
+"The video tutorial covers the topic of the relationship between the models using the Many2one fields. Also covers the Declaration and property of Many2one fields in odoo 14.\n"
+"\n"
+"Video Contents:\n"
+"0:00 - Introduction to Relational Fields in Odoo 14\n"
+"2:00 - Defining Business objects and Views \n"
+"7:45 - How to Create ManytoOne Relational Fields in Odoo 14\n"
+"16:03 - Defining view for ManytoOne Relational Fields in Odoo 14\n"
+"25:03 - Working of ManytoOne Relational Fields\n"
+"\n"
+"#odoo14 #odoo #odoo14developement"
+msgstr ""
+
+#. module: open_academy
+#: model_terms:slide.slide,description:open_academy.slide_slide_odoo15_dev_6
+msgid ""
+"This Video explains about building a module in odoo 15 using the scaffold method. Where scaffold method is a single line command for making a module for a specific purpose.\n"
+"Scaffolding is available via the odoo-bin scaffold subcommand.\n"
+"\n"
+"How to create a new module using command-line interface in odoo.\n"
+"How to create a new module using cli command in odoo.\n"
+"How to create a new module using scaffold command in odoo.\n"
+"How to use odoo scaffold command to create a new module.\n"
+"\n"
+"#odoo15videos #odootechnicalvideos #odoo15 #odoocliscaffold #odooscaffoldcommand\n"
+"#createodoomodule"
+msgstr ""
+
+#. module: open_academy
+#: model_terms:slide.slide,description:open_academy.slide_slide_odoo15_dev_4
+msgid ""
+"This Video explains about each and every components in a module. #odoo15videos \n"
+"It discusses about init, manifest, models, controllers, security, views, report and i8n. #odootechnicalvideos  #odoo15 #odoomodule #modulecreation #odoomodulestructure\n"
+"#odoomodulecomponents"
+msgstr ""
+
+#. module: open_academy
+#: model_terms:slide.slide,description:open_academy.slide_slide_odoo_dev_4
+msgid ""
+"This video describes how to create an empty module using the scaffold command. The command will create all the folders and files needed for the module.\n"
+"\n"
+"Get the module from our repository: https://github.com/CybroOdoo/openacademy\n"
+"\n"
+"It will create controllers, demo data, security, models, and view folders and files.\n"
+"\n"
+"Related Videos:\n"
+"Configure Odoo 14 Project on Pycharm Ubuntu: https://www.youtube.com/watch?v=UGg1j5RCXKk&amp;t=5s\n"
+"Building a Module in Odoo 14: https://www.youtube.com/watch?v=wwIniIlIrAc\n"
+"Composition of a module in Odoo 14: https://www.youtube.com/watch?v=8_M96X4O6XI\n"
+"Module Structure in Odoo 14: https://www.youtube.com/watch?v=1F0veP4EJ2Q&amp;t=160s\n"
+"Empty Module Structure Scaffold in Odoo 14: https://www.youtube.com/watch?v=fY-QQXT2clw\n"
+"\n"
+"#odoo13 #scaffoldcommand #odoomodule\n"
+"For More Videos Subscribe to our YouTube channel. \n"
+"\n"
+"Visit our company website: https://www.cybrosys.com/\n"
+"\n"
+"Connect with us: \n"
+"Facebook: http://ow.ly/Ty0Q30lc5TU\n"
+"twitter: http://ow.ly/s5cV30lc5Vc\n"
+"LinkedIn: http://ow.ly/GJfg30lc5WT\n"
+"Pinterest: http://bit.ly/2I2b5N0"
+msgstr ""
+
+#. module: open_academy
+#: model_terms:slide.slide,description:open_academy.slide_slide_odoo14_dev_6
+msgid ""
+"This video describes how to create an empty module using the scaffold command. The command will create all the folders and files needed for the module.\n"
+"\n"
+"How to Create an Empty Module Structure Scaffold Command in Odoo 13: https://www.youtube.com/watch?v=YbKbYHt3quw&amp;t=15s\n"
+"\n"
+"#odoo14 $odoo14tutorials #odoo_scaffold_method\n"
+"►► Visit our company website: https://www.cybrosys.com/\n"
+"\n"
+"Connect with us: \n"
+"► Facebook: http://ow.ly/Ty0Q30lc5TU\n"
+"► twitter: http://ow.ly/s5cV30lc5Vc\n"
+"► LinkedIn: http://ow.ly/GJfg30lc5WT\n"
+"► Pinterest: http://bit.ly/2I2b5N0\n"
+"\n"
+"About Us\n"
+"Cybrosys is enriched with technical experts and research scholars producing high-end quality software tools. Our sophisticated infrastructure and lab facilities constantly bring in new technological innovations and attributions. Partnership with ODOO, MICROSOFT, IBM, Intel, HP, NASSCOM proves our strength and excellence.\n"
+"\n"
+"We are Odoo Gold Partners standing par excellence in Odoo Implementation, Customization, and allied services. We do Source code sale and Employee outsourcing. The latest research and developments in Cybrosys are being conducted in Blockchain. Our robust quality product and services are widely used by clients residing across in India, USA, UK, Middle East &amp; Europe."
+msgstr ""
+
+#. module: open_academy
+#: model_terms:slide.slide,description:open_academy.slide_slide_odoo_dev_3
+msgid ""
+"This video describes the various components and structure of an odoo module. It discusses controllers, data, docs, translations, reports, security, static files and folders, unit tests, views, and wizards.\n"
+"\n"
+"Watch Part 2: https://youtu.be/9AvMGOn2ZIw\n"
+"\n"
+"This video will give an overall idea about the different components used in an odoo module. And describes its structure.\n"
+"\n"
+"Related Videos:\n"
+"Configure Odoo 14 Project on Pycharm Ubuntu: https://www.youtube.com/watch?v=UGg1j5RCXKk&amp;t=5s\n"
+"Building a Module in Odoo 14: https://www.youtube.com/watch?v=wwIniIlIrAc\n"
+"Composition of a module in Odoo 14: https://www.youtube.com/watch?v=8_M96X4O6XI\n"
+"Module Structure in Odoo 14: https://www.youtube.com/watch?v=1F0veP4EJ2Q&amp;t=160s\n"
+"Empty Module Structure Scaffold in Odoo 14: https://www.youtube.com/watch?v=fY-QQXT2clw\n"
+"\n"
+"It will help to understand the module structure and components of Odoo.\n"
+"\n"
+"#odoo13 #odoocomponents #odoodevelopment\n"
+"More videos Subscribe to our YouTube channel. \n"
+"\n"
+"Visit our company website: https://www.cybrosys.com/\n"
+"\n"
+"Connect with us: \n"
+"Facebook: http://ow.ly/Ty0Q30lc5TU\n"
+"twitter: http://ow.ly/s5cV30lc5Vc\n"
+"LinkedIn: http://ow.ly/GJfg30lc5WT\n"
+"Pinterest: http://bit.ly/2I2b5N0"
+msgstr ""
+
+#. module: open_academy
+#: model_terms:slide.slide,description:open_academy.slide_slide_odoo14_dev_4
+msgid ""
+"This video describes the various components of an odoo module. It discusses controllers, data, docs, translations, reports, security, static files and folders, unit tests, views, and wizards.\n"
+"\n"
+"This video will give an overall idea about the different components used in an odoo module.\n"
+"\n"
+"#odoo14 #odoocomposition #componentsofodoo #odoomodule #odoowizards #odoo #odoodevelopments\n"
+"\n"
+"Video Contents:\n"
+"02:10 Components of Modules\n"
+"03:45 View Different Python Classes\n"
+"04:45 View UI Files\n"
+"06:01 Data Files"
+msgstr ""
+
+#. module: open_academy
+#: model_terms:slide.slide,description:open_academy.slide_slide_odoo14_tips_3
+#: model_terms:slide.slide,description:open_academy.slide_slide_odoo15_dev_3
+msgid ""
+"This video discusses building a custom module in #odoo15 and also detail each component in the module such as models, views, security, and how can we add those files and set up a module. \n"
+"#odoo15tutorials #odoocustommodule"
+msgstr ""
+
+#. module: open_academy
+#: model_terms:slide.slide,description:open_academy.slide_slide_odoo14_dev_7
+msgid ""
+"This video discusses how we can add data files in your Odoo module, It can be demo data or other standard data like the unit of measures, countries, cities...etc\n"
+"\n"
+"Video Contents\n"
+"03:08 Types of Data\n"
+"03:35 Where you can find the demo directory\n"
+"07:55 What is called Demonstration Data\n"
+"09:00 How to Upload data into the Module\n"
+"\n"
+"#odoo14 #odoodevelopment #odoodatafiles"
+msgstr ""
+
+#. module: open_academy
+#: model_terms:slide.slide,description:open_academy.slide_slide_odoo14_dev_3
+msgid ""
+"This video discusses on How to create a module in Odoo 14 and how we can add our own business object to our module, how to define fields and reserved fields, Then creating menus and set the action for that menu, upgrading the module to get the changes in Odoo. The video will help you to understand how to setup the addon path\n"
+"\n"
+"#odootutorial #odoodevelopment\n"
+"\n"
+"Video Contents:\n"
+"00:00​ Introduction\n"
+"02:26 What is ORM Layer\n"
+"04:23​ How to Create a Business Object\n"
+"06:30 Common Attributes\n"
+"07:54​ Reserved field for Business Objects\n"
+"13:46 Different View Modes\n"
+"16:25 How to Install the Addon\n"
+"21:25 Create or Add data to the course\n"
+"\n"
+"Odoo 14 Development Tutorial Playlist: https://www.youtube.com/playlist?list=PLeJtXzTubzj90qoZq2gCx-t3zieox5zVX\n"
+"\n"
+"For More Development Tutorial, Visit our Website: https://www.cybrosys.com/odoo-development-tutorial/\n"
+"\n"
+"►► Visit our company website: https://www.cybrosys.com/\n"
+"\n"
+"Connect with us: \n"
+"► Facebook: http://ow.ly/Ty0Q30lc5TU\n"
+"► twitter: http://ow.ly/s5cV30lc5Vc\n"
+"► LinkedIn: http://ow.ly/GJfg30lc5WT\n"
+"► Pinterest: http://bit.ly/2I2b5N0\n"
+"\n"
+"About Us\n"
+"Cybrosys is enriched with technical experts and research scholars producing high-end quality software tools. Our sophisticated infrastructure and lab facilities constantly bring in new technological innovations and attributions. Partnership with ODOO, MICROSOFT, IBM, Intel, HP, NASSCOM proves our strength and excellence.\n"
+"\n"
+"We are Odoo Gold Partners standing par excellence in Odoo Implementation, Customization, and allied services. We do Source code sales and Employee outsourcing. The latest research and developments in Cybrosys are being conducted in Blockchain. Our robust quality product and services are widely used by clients residing across in India, the USA, UK, Middle East &amp; Europe."
+msgstr ""
+
+#. module: open_academy
+#: model_terms:slide.slide,description:open_academy.slide_slide_odoo14_tips_4
+msgid ""
+"This video explains about forecast widget in the tree view. This feature is mainly used in sale orders to obtain the forecast report of a product from the order line.\n"
+"\n"
+"Video Content:\n"
+"0:00 Introduction\n"
+"0:20 We are checking the forecast widget in odoo\n"
+"0:00 Open sale order\n"
+"1:33 Goto pycharm and search for forecast widget\n"
+"3:27 Check on sale order for the widget\n"
+"5:27 Goto Edit View: Form"
+msgstr ""
+
+#. module: open_academy
+#: model_terms:slide.slide,description:open_academy.slide_slide_odoo_dev_27
+msgid ""
+"This video explains about the Wizards: Defining and Launching in Odoo\n"
+"\n"
+"Wizards describe interactive sessions with the user (or dialog boxes) through dynamic forms. A wizard is simply a model that extends the class Transient Model instead of Model\n"
+"\n"
+"Wizard records are not meant to be persistent; they are automatically deleted from the database after a certain time. This is why they are called transient.\n"
+"\n"
+"Get the module from our repository: https://github.com/CybroOdoo/openacademy\n"
+"    \n"
+"Wizard models do not require explicit access rights: users have all permissions on wizard records.\n"
+"    \n"
+"Wizard records may refer to regular records or wizard records through many2one fields, but regular records cannot refer to wizard records through a many2one field.\n"
+"\n"
+"\n"
+"A wizard is a model that display a form view to the user usually in a dialog window.\n"
+"\n"
+"#odoodevelopment #odootutorials #odoo13"
+msgstr ""
+
+#. module: open_academy
+#: model_terms:slide.slide,description:open_academy.slide_slide_odoo15_dev_28
+msgid ""
+"This video explains about the Wizards: Defining and Launching in Odoo. Wizards describe interactive sessions with the user (or dialog boxes) through dynamic forms.  #odoowizards\n"
+"\n"
+"A wizard is simply a model that extends the class Transient Model instead of Model. Wizard records are not meant to be persistent; they are automatically deleted from the database after a certain time. \n"
+"\n"
+"This is why they are called transient. Wizard models do not require explicit access rights: users have all permissions on wizard records. \n"
+"\n"
+"Wizard records may refer to regular records or wizard records through many2one fields, but regular records cannot refer to wizard records through a many2one field. #odoo15technicalvideos\n"
+"\n"
+"In this video, we are discussing how to define and launch a wizard in odoo15 and its use cases in odoo development.\n"
+"#odoo15developmentvideos"
+msgstr ""
+
+#. module: open_academy
+#: model_terms:slide.slide,description:open_academy.slide_slide_odoo_dev_22
+#: model_terms:slide.slide,description:open_academy.slide_slide_odoo_dev_25
+msgid ""
+"This video explains about the pivot view in odoo. In Pivot view, data can be represented as tables, a dynamic analysis matrix.\n"
+"\n"
+"Pivot view repeatedly generates table dynamically, while changing the field or row or column. The user can select the row and column field to represent the table. Each time when a user changes the fields, it calls corresponding SQL queries and produces tables accordingly. So Pivot tables are called as dynamic analysis matrix.\n"
+"\n"
+"Get the module from our repository: https://github.com/CybroOdoo/openacademy\n"
+"\n"
+"The pivot view is used to visualize aggregations as a pivot table. Its root element is 〈pivot〉 which can take the following attributes:\n"
+"\n"
+"disable_linking\n"
+"Set to True to remove table cell’s links to list view.\n"
+"\n"
+"display_quantity\n"
+"Set to true to display the Quantity column by default.\n"
+"\n"
+"default_order\n"
+"The name of the measure and the order (asc or desc) to use as default order in the view.\n"
+"\n"
+"name (required)\n"
+"the name of a field to use in the view. If used for grouping (rather than aggregating)\n"
+"\n"
+"string\n"
+"the name that will be used to display the field in the pivot view, overrides the default python String attribute of the field.\n"
+"\n"
+"type\n"
+"indicates whether the field should be used as a grouping criteria or as an aggregated value within a group. Possible values are:\n"
+"\n"
+"row (default)\n"
+"groups by the specified field, each group gets its own row.\n"
+"\n"
+"col\n"
+"creates column-wise groups\n"
+"\n"
+"measure\n"
+"field to aggregate within a group\n"
+"\n"
+"interval\n"
+"on date and datetime fields, groups by the specified interval (day, week, month, quarter or year) instead of grouping on the specific datetime (fixed second resolution) or date (fixed day resolution).\n"
+"\n"
+"invisible\n"
+"if true, the field will not appear either in the active measures nor in the selectable measures (useful for fields that do not make sense aggregated, such as fields in different units, e.g. € and $).\n"
+"\n"
+"#odoodevelopment #odootutorials #odoo13\n"
+"For More Videos Subscribe to our YouTube channel. \n"
+"\n"
+"Visit our company website: https://www.cybrosys.com/\n"
+"\n"
+"Connect with us: \n"
+"Facebook: http://ow.ly/Ty0Q30lc5TU\n"
+"twitter: http://ow.ly/s5cV30lc5Vc\n"
+"LinkedIn: http://ow.ly/GJfg30lc5WT\n"
+"Pinterest: http://bit.ly/2I2b5N0\n"
+"\n"
+"About Us\n"
+"Cybrosys is enriched with technical experts and research scholars producing high-end quality software tools. Our sophisticated infrastructure and lab facilities constantly bring in new technological innovations and attributions. Partnership with ODOO, MICROSOFT, IBM, Intel, HP, NASSCOM proves our strength and excellence.\n"
+"\n"
+"We are Odoo Gold Partners standing par excellence in Odoo Implementation, Customization, and allied services. We do Source code sale, Custom software development, and Employee outsourcing. The latest research and developments in Cybrosys are being conducted in Blockchain. Our robust quality product and services are widely used by clients residing across in India, USA, UK, Middle East &amp; Europe."
+msgstr ""
+
+#. module: open_academy
+#: model_terms:slide.slide,description:open_academy.slide_slide_odoo_dev_14
+msgid ""
+"This video explains how to Setting up the default value for fields in Odoo 13\n"
+"\n"
+"Get the module from our repository: https://github.com/CybroOdoo/openacademy\n"
+"\n"
+"Related Videos:\n"
+"Configure Odoo 14 Project on Pycharm Ubuntu: https://www.youtube.com/watch?v=UGg1j5RCXKk&amp;t=5s\n"
+"Building a Module in Odoo 14: https://www.youtube.com/watch?v=wwIniIlIrAc\n"
+"Composition of a module in Odoo 14: https://www.youtube.com/watch?v=8_M96X4O6XI\n"
+"Module Structure in Odoo 14: https://www.youtube.com/watch?v=1F0veP4EJ2Q&amp;t=160s\n"
+"Empty Module Structure Scaffold in Odoo 14: https://www.youtube.com/watch?v=fY-QQXT2clw\n"
+"\n"
+"#odoodevelopment #odootutorials #odoofields\n"
+"For More Videos Subscribe to our YouTube channel. \n"
+"\n"
+"Visit our company website: https://www.cybrosys.com/\n"
+"\n"
+"Connect with us: \n"
+"Facebook: http://ow.ly/Ty0Q30lc5TU\n"
+"twitter: http://ow.ly/s5cV30lc5Vc\n"
+"LinkedIn: http://ow.ly/GJfg30lc5WT\n"
+"Pinterest: http://bit.ly/2I2b5N0"
+msgstr ""
+
+#. module: open_academy
+#: model_terms:slide.slide,description:open_academy.slide_slide_odoo14_tips_10
+msgid ""
+"This video explains how to add settings for a custom module in Odoo 13. We are very much familiar with activating different options in odoo by enabling some options on the settings page. For example activate the product variants, asset management, etc. To enable the product variants we need to go to the inventory settings and put the tick in the product variants. For asset management, we need to go to the invoice settings and put the tick in the asset management. There are some situations where we need to activate these settings for some purpose using the code.\n"
+"\n"
+"#odoo14 #odoo #odoo14development #odoomodule\n"
+"\n"
+"►► Visit our company website: https://www.cybrosys.com/\n"
+"\n"
+"Connect with us: \n"
+"► Facebook: http://ow.ly/Ty0Q30lc5TU\n"
+"► twitter: http://ow.ly/s5cV30lc5Vc\n"
+"► LinkedIn: http://ow.ly/GJfg30lc5WT\n"
+"► Pinterest: http://bit.ly/2I2b5N0\n"
+"\n"
+"About Us\n"
+"Cybrosys is enriched with technical experts and research scholars producing high-end quality software tools. Our sophisticated infrastructure and lab facilities constantly bring in new technological innovations and attributions. Partnership with ODOO, MICROSOFT, IBM, Intel, HP, NASSCOM proves our strength and excellence.\n"
+"\n"
+"We are Odoo Gold Partners standing par excellence in Odoo Implementation, Customization, and allied services. We do Source code sale and Employee outsourcing. The latest research and developments in Cybrosys are being conducted in Blockchain. Our robust quality product and services are widely used by clients residing across in India, USA, UK, Middle East &amp; Europe."
+msgstr ""
+
+#. module: open_academy
+#: model_terms:slide.slide,description:open_academy.slide_slide_odoo14_tips_2
+msgid ""
+"This video explains how to create a dashboard in Odoo. Dashboards and reports play a key role in visualizing the data and it also helps to highlight important information in a better way. This will help in situations where we need to make quick business decisions as it will display all the necessary information in one place in an easy to analyze manner. In this video, we start by creating a menu for the dashboard, adding a client action for it, connecting the action to the js file, defining the template, fetching the required data from the backend, and displaying these data in the view using a simple example dashboard.\n"
+"\n"
+"#odoo #odoodashboard #odoodevelopement"
+msgstr ""
+
+#. module: open_academy
+#: model_terms:slide.slide,description:open_academy.slide_slide_odoo14_dev_30
+#: model_terms:slide.slide,description:open_academy.slide_slide_odoo14_tips_5
+msgid ""
+"This video explains how we can create a  printed PDF Report in Odoo 14.\n"
+"\n"
+"A report engine of Odoo is a combination of Qweb, bootstrap, Wkhtmltopdf. \n"
+"\n"
+"Odoo uses Qweb as a templating engine which is used for converting XML to HTML. Moreover, Qweb properties are set as XML attributes which start with ‘t-‘ (example: t-if for checking conditions in an XML file). Furthermore, we use Qweb for defining the report templates that are written in HTML format, the same as creating a web page.\n"
+"\n"
+"Wkhtmltopdf is used to render PDFs from the Qweb templates. Additionally, the templates are defined in HTML format as we discussed in the above section therefore, wkhtmltopdf will render the PDF report from the Qweb.\n"
+"\n"
+"How do Qweb Reports work in Odoo?\n"
+"The reports are working with Report Actions and Report Templates. Additionally, the report templates are used in report actions. Moreover, a report action is triggered while printing a report that you can either call this report action from the Print menu or from a python function. In addition, you can set up a custom page format as per the need in Odoo that will be specified in the report action.\n"
+"\n"
+"Report Actions (ir.actions.report)\n"
+"Odoo has several types of actions to perform different kinds of operations or processes such as the reports are generated when the report action is triggered. Furthermore, the report action will be recognized by model ‘ir.actions.report’ used in the record."
+msgstr ""
+
+#. module: open_academy
+#: model_terms:slide.slide,description:open_academy.slide_slide_odoo14_tips_21
+msgid ""
+"This video explains step by step guide to install odoo 13 in ubuntu 18.04. Odoo 13 is the world's fastest all-in-one management software. Odoo 13 is user- friendly as well as powerful compared to Odoo 12. #odoo13installation #installodoo\n"
+"\n"
+"Video Contents:\n"
+"00:00 Introduction #odooinstallation\n"
+"00:38 How to Install Openssh-server fail2ban\n"
+"01:02 How to Install PostgreSQL\n"
+"04:55 How to  Install Git\n"
+"07:22 Set Password\n"
+"11:03 Starting Odoo 13 Service\n"
+"\n"
+"Step 1: Update your system\n"
+"⬇\n"
+"sudo apt-get update\n"
+"sudo apt-get upgrade\n"
+"\n"
+"Step 2: Secure your server\n"
+"⬇\n"
+"sudo apt-get install openssh-server fail2ban\n"
+"\n"
+"Step 3: User Creation\n"
+"⬇\n"
+"sudo adduser --system --home=/opt/odoo --group odoo_13\n"
+"\n"
+"Step 4: Configure PostgreSQL\n"
+"⬇\n"
+"sudo apt-get install postgresql\n"
+"\n"
+"sudo su - postgres\n"
+"createuser --createdb --username postgres --no-createrole --no-superuser --pwprompt odoo_13\n"
+" \n"
+"Step 5: Installing dependencies for Odoo\n"
+"⬇\n"
+"Install pip3 by running the below command\n"
+"\n"
+"sudo apt-get install -y python3-pip\n"
+"\n"
+"After installing pip3\n"
+"\n"
+"sudo pip3 install Babel chardet decorator docutils ebaysdk feedparser gevent greenlet html2text Jinja2 libsass lxml Mako MarkupSafe mock num2words ofxparse passlib Pillow psutil psycopg2 pydot pyldap pyparsing PyPDF2 pyserial python-dateutil pytz pyusb PyYAML qrcode reportlab requests suds-jurko vatnumber vobject Werkzeug XlsxWriter xlwt xlrd polib\n"
+"\n"
+"In case, if any error occurs during the running of the above command, try the below\n"
+"\n"
+"sudo pip3 install Babel chardet decorator docutils ebaysdk feedparser gevent greenlet html2text Jinja2 libsass lxml Mako MarkupSafe mock num2words ofxparse passlib Pillow psutil psycopg2-binary pydot pyldap pyparsing PyPDF2 pyserial python-dateutil pytz pyusb PyYAML qrcode reportlab requests suds-jurko vatnumber vobject Werkzeug XlsxWriter xlwt xlrd polib\n"
+"\n"
+"Also install the other dependencies\n"
+"\n"
+"sudo apt-get install -y npm\n"
+"sudo ln -s /usr/bin/nodejs /usr/bin/node\n"
+"sudo npm install -g less less-plugin-clean-css\n"
+"sudo apt-get install -y node-less\n"
+"\n"
+"Install wkhtmltopdf and its dependencies using below command\n"
+"\n"
+"sudo wget https://github.com/wkhtmltopdf/wkhtml…\n"
+"\n"
+"For installing the dependencies use the below command\n"
+"\n"
+"sudo dpkg -i wkhtmltox_0.12.5-1.bionic_amd64.deb\n"
+"sudo apt install -f\n"
+"\n"
+"Step 6: Clone Odoo from Github\n"
+"⬇\n"
+"sudo apt-get install git\n"
+"\n"
+"sudo su - odoo_13 -s /bin/bash\n"
+"\n"
+"git clone https://www.github.com/odoo/odoo --depth 1 --branch 13.0 --single-branch .  \n"
+"\n"
+"Step 7: Configure Odoo\n"
+"⬇\n"
+"sudo mkdir /var/log/odoo13\n"
+"\n"
+"sudo chown odoo:root /var/log/odoo13\n"
+"\n"
+"sudo cp /opt/odoo/debian/odoo.conf /etc/odoo_13.conf\n"
+"\n"
+"sudo nano /etc/odoo_13.conf\n"
+"\n"
+"Alter the configuration file as shown below.\n"
+"\n"
+"[options]\n"
+"   ; This is the password that allows database operations:\n"
+"   ; admin_passwd = admin\n"
+"   db_host = False\n"
+"   db_port = False\n"
+"   db_user = odoo_13\n"
+"   db_password = False\n"
+"   xmlrpc_port = 9999\n"
+"   addons_path = /opt/odoo/addons\n"
+"   logfile = /var/log/odoo13/odoo_13.log\n"
+"\n"
+"Provide ownership for the configuration file to the Odoo user\n"
+"\n"
+"sudo chown odoo: /etc/odoo_13.conf\n"
+"sudo chmod 640 /etc/odoo_13.conf\n"
+"\n"
+"Step 8: Configure Odoo Service\n"
+"⬇\n"
+"sudo nano /etc/systemd/system/odoo_13.service\n"
+"\n"
+"Set content of the file as follows,\n"
+"\n"
+"[Unit]\n"
+"   Description=Odoo\n"
+"   Documentation=http://www.odoo.com\n"
+"   [Service]\n"
+"   # Ubuntu/Debian convention:\n"
+"   Type=simple\n"
+"   User=odoo_13\n"
+"   ExecStart=/opt/odoo/odoo-bin -c /etc/odoo_13.conf\n"
+"   [Install]\n"
+"   WantedBy=default.target\n"
+"\n"
+"Provide full access rights to service file\n"
+"\n"
+"sudo chmod 755 /etc/systemd/system/odoo_13.service\n"
+"sudo chown root: /etc/systemd/system/odoo_13.service\n"
+"\n"
+"Step 9: Test Installation\n"
+"⬇\n"
+"sudo systemctl start odoo_13.service\n"
+"\n"
+"In order to check the log file\n"
+"\n"
+"sudo tail -f /var/log/odoo13/odoo_13.log\n"
+"\n"
+"For making the Odoo service start automatically on boot time\n"
+"\n"
+"sudo systemctl enable odoo_13.service\n"
+"\n"
+"For accessing the Odoo 13\n"
+"\n"
+"“http://\"your_domain_or_IP_address\":9999”\n"
+"\n"
+"If everything is working properly the page will be redirected to Odoo’s database creation page. If you want to change the default port number from 9999 you have to change it in the configuration file.\n"
+"\n"
+"Read more  - https://www.cybrosys.com/blog/install-odoo-13-on-ubuntu-18-04\n"
+"\n"
+"#installodoo13 #odoo13 #odoo\n"
+"More video, Subscribe to our YouTube channel. \n"
+"\n"
+"Visit our company website: https://www.cybrosys.com/\n"
+"Connect with us: \n"
+"Facebook: http://ow.ly/Ty0Q30lc5TU\n"
+"twitter: http://ow.ly/s5cV30lc5Vc\n"
+"LinkedIn: http://ow.ly/GJfg30lc5WT\n"
+"Pinterest: http://bit.ly/2I2b5N0\n"
+"Instagram: http://ow.ly/RPzV30lc6z"
+msgstr ""
+
+#. module: open_academy
+#: model_terms:slide.slide,description:open_academy.slide_slide_odoo14_dev_8
+msgid ""
+"This video explains the basic views in odoo 14. like, tree view, form view, search view.\n"
+"\n"
+"Views are what define how records should be displayed to end-users. They are specified in XML which means that they can be edited independently from the models that they represent. They are flexible and allow a high level of customization of the screens that they control. There exist various types of views. Each of them represents a mode of visualization: form, list, kanban, etc.\n"
+"\n"
+"Video Contents:\n"
+"01:35 What are the Basic Views\n"
+"09:01 Advanced Options in Tree View\n"
+"09:36 What is From View\n"
+"15:00 Search View Basics\n"
+"\n"
+"#odoo14 #odoodevelopment #odooviews"
+msgstr ""
+
+#. module: open_academy
+#: model_terms:slide.slide,description:open_academy.slide_slide_odoo15_dev_5
+msgid ""
+"This video explains the module structure in odoo 15.  #odoo15technicalvideos\n"
+"How different components are bound together to setup a module  for a specific purpose. #odoo15videos #odoomodulestructure #odoomodule #odoodevelopment #createmoduleinodoo #buildodoomodule"
+msgstr ""
+
+#. module: open_academy
+#: model_terms:slide.slide,description:open_academy.slide_slide_odoo14_dev_5
+msgid ""
+"This video explains the structure of an Odoo module. It discusses how different components of the module are bound together and act as a single module for a specific purpose.\n"
+"\n"
+"This video will help you to understand the structure of an Odoo module\n"
+"\n"
+"#odoo14 #odoodevelopment #odoostructure"
+msgstr ""
+
+#. module: open_academy
+#: model_terms:slide.slide,description:open_academy.slide_slide_odoo15_dev_30
+msgid ""
+"This video, explains about report actions that trigger printing the PDF report. They are worked based on report templates and report actions, which generate reports based on python function or a print button. \n"
+"\n"
+"Video Contents\n"
+"0:00 Introduction\n"
+"0:49 Report Directory\n"
+"1:34 Report Action\n"
+"6:12 Report Template\n"
+"9:22 How to Print a report in Odoo 15\n"
+"\n"
+"Reports can be triggered by qweb pdf and qweb HTML. Here it describes about rendering qweb pdf reports in odoo 15."
+msgstr ""
+
+#. module: open_academy
+#: model:ir.model.fields,field_description:open_academy.field_openacademy_course__name
+msgid "Title"
+msgstr "Título"
+
+#. module: open_academy
+#: model_terms:slide.channel,description:open_academy.slide_channel_odoo14_technical_tips
+#: model_terms:slide.channel,description_short:open_academy.slide_channel_odoo14_technical_tips
+msgid "Useful Odoo Technical Tips"
+msgstr ""
+
+#. module: open_academy
+#: model_terms:slide.slide,description:open_academy.slide_slide_odoo14_dev_11
+msgid ""
+"Video tutorial covers the relationship between the models by using the Many2many fields and usage and declaration of Many2Many fields in Odoo 14.\n"
+"\n"
+"Video Contents\n"
+"00:36 What is Many to Many Field\n"
+"02:20 How to Define a Many to Many Field\n"
+"07:10 How to Use Mant to Many tags\n"
+"09:00 How to View the session ID\n"
+"\n"
+"#odoo14 #odoo #odoo14development\n"
+"\n"
+"►► Visit our company website: https://www.cybrosys.com/\n"
+"\n"
+"Connect with us: \n"
+"► Facebook: http://ow.ly/Ty0Q30lc5TU\n"
+"► twitter: http://ow.ly/s5cV30lc5Vc\n"
+"► LinkedIn: http://ow.ly/GJfg30lc5WT\n"
+"► Pinterest: http://bit.ly/2I2b5N0\n"
+"\n"
+"About Us\n"
+"Cybrosys is enriched with technical experts and research scholars producing high-end quality software tools. Our sophisticated infrastructure and lab facilities constantly bring in new technological innovations and attributions. Partnership with ODOO, MICROSOFT, IBM, Intel, HP, NASSCOM proves our strength and excellence.\n"
+"\n"
+"We are Odoo Gold Partners standing par excellence in Odoo Implementation, Customization, and allied services. We do Source code sale and Employee outsourcing. The latest research and developments in Cybrosys are being conducted in Blockchain. Our robust quality product and services are widely used by clients residing across in India, USA, UK, Middle East &amp; Europe."
+msgstr ""
+
+#. module: open_academy
+#: model_terms:slide.slide,description:open_academy.slide_slide_odoo_dev_8
+msgid ""
+"Video tutorial covers the relationship between the models by using the Many2many fields and usage and declaration of Many2Many fields in odoo.\n"
+"\n"
+"Related Videos:\n"
+"Building an odoo module: https://www.youtube.com/watch?v=9AvMGOn2ZIw&amp;t=44s\n"
+"Create an Empty Module Structure Scaffold Command: https://www.youtube.com/watch?v=YbKbYHt3quw\n"
+"Components and Structure of Odoo 13 Module: https://www.youtube.com/watch?v=7vkRCzvnhHs&amp;t=532s\n"
+"\n"
+"Get the module from our repository: https://github.com/CybroOdoo/openacademy\n"
+"\n"
+"Odoo 14 Videos:\n"
+"Configure Odoo 14 Project on Pycharm Ubuntu: https://www.youtube.com/watch?v=UGg1j5RCXKk&amp;t=5s\n"
+"Building a Module in Odoo 14: https://www.youtube.com/watch?v=wwIniIlIrAc\n"
+"Composition of a module in Odoo 14: https://www.youtube.com/watch?v=8_M96X4O6XI\n"
+"Module Structure in Odoo 14: https://www.youtube.com/watch?v=1F0veP4EJ2Q&amp;t=160s\n"
+"Empty Module Structure Scaffold in Odoo 14: https://www.youtube.com/watch?v=fY-QQXT2clw\n"
+"\n"
+"#odoodevelopment #odoodefinemodels #odootutorials\n"
+"For More Videos Subscribe to our YouTube channel. \n"
+"\n"
+"Visit our company website: https://www.cybrosys.com/\n"
+"\n"
+"Connect with us: \n"
+"Facebook: http://ow.ly/Ty0Q30lc5TU\n"
+"twitter: http://ow.ly/s5cV30lc5Vc\n"
+"LinkedIn: http://ow.ly/GJfg30lc5WT\n"
+"Pinterest: http://bit.ly/2I2b5N0"
+msgstr ""
+
+#. module: open_academy
+#: model_terms:slide.slide,description:open_academy.slide_slide_odoo_dev_6
+msgid ""
+"Video tutorial covers the topic of the relationship between the models using the Many2one fields. Declaration and property of Many2one fields in odoo.\n"
+"\n"
+"Related Videos:\n"
+"Building an odoo module: https://www.youtube.com/watch?v=9AvMGOn2ZIw&amp;t=44s\n"
+"Create an Empty Module Structure Scaffold Command: https://www.youtube.com/watch?v=YbKbYHt3quw\n"
+"Components and Structure of Odoo 13 Module: https://www.youtube.com/watch?v=7vkRCzvnhHs&amp;t=532s\n"
+"\n"
+"Get the module from our repository: https://github.com/CybroOdoo/openacademy\n"
+"\n"
+"Related Videos:\n"
+"Configure Odoo 14 Project on Pycharm Ubuntu: https://www.youtube.com/watch?v=UGg1j5RCXKk&amp;t=5s\n"
+"Building a Module in Odoo 14: https://www.youtube.com/watch?v=wwIniIlIrAc\n"
+"Composition of a module in Odoo 14: https://www.youtube.com/watch?v=8_M96X4O6XI\n"
+"Module Structure in Odoo 14: https://www.youtube.com/watch?v=1F0veP4EJ2Q&amp;t=160s\n"
+"Empty Module Structure Scaffold in Odoo 14: https://www.youtube.com/watch?v=fY-QQXT2clw\n"
+"\n"
+"##odoodevelopment #odoodefinemodels #odootutorials\n"
+"For More Videos Subscribe to our YouTube channel. \n"
+"\n"
+"Visit our company website: https://www.cybrosys.com/\n"
+"\n"
+"Connect with us: \n"
+"Facebook: http://ow.ly/Ty0Q30lc5TU\n"
+"twitter: http://ow.ly/s5cV30lc5Vc\n"
+"LinkedIn: http://ow.ly/GJfg30lc5WT\n"
+"Pinterest: http://bit.ly/2I2b5N0"
+msgstr ""
+
+#. module: open_academy
+#: model_terms:slide.slide,description:open_academy.slide_slide_odoo14_dev_10
+msgid ""
+"Video tutorial includes the establishment of the relationship between the models using One2many fields. Also covers the declaration and properties of One2Many fields in Odoo.\n"
+"\n"
+"#odoo14 #odoo #odoo14developement"
+msgstr ""
+
+#. module: open_academy
+#: model_terms:slide.slide,description:open_academy.slide_slide_odoo_dev_7
+msgid ""
+"Video tutorial includes the establishment of the relationship between the models using One2many fields. Also covers the declaration and properties of One2Many fields in odoo\n"
+"\n"
+"Related Videos:\n"
+"Building an odoo module: https://www.youtube.com/watch?v=9AvMGOn2ZIw&amp;t=44s\n"
+"Create an Empty Module Structure Scaffold Command: https://www.youtube.com/watch?v=YbKbYHt3quw\n"
+"Components and Structure of Odoo 13 Module: https://www.youtube.com/watch?v=7vkRCzvnhHs&amp;t=532s\n"
+"Many2One Fields in Odoo 13: https://www.youtube.com/watch?v=MY2bmJmvjSw&amp;t=902s\n"
+"\n"
+"Get the module from our repository: https://github.com/CybroOdoo/openacademy\n"
+"\n"
+"Odoo 14 Videos:\n"
+"Configure Odoo 14 Project on Pycharm Ubuntu: https://www.youtube.com/watch?v=UGg1j5RCXKk&amp;t=5s\n"
+"Building a Module in Odoo 14: https://www.youtube.com/watch?v=wwIniIlIrAc\n"
+"Composition of a module in Odoo 14: https://www.youtube.com/watch?v=8_M96X4O6XI\n"
+"Module Structure in Odoo 14: https://www.youtube.com/watch?v=1F0veP4EJ2Q&amp;t=160s\n"
+"Empty Module Structure Scaffold in Odoo 14: https://www.youtube.com/watch?v=fY-QQXT2clw\n"
+"\n"
+"#odoodevelopment #odoodefinemodels #odootutorials\n"
+"For More Videos Subscribe to our YouTube channel. \n"
+"\n"
+"Visit our company website: https://www.cybrosys.com/\n"
+"\n"
+"Connect with us: \n"
+"Facebook: http://ow.ly/Ty0Q30lc5TU\n"
+"twitter: http://ow.ly/s5cV30lc5Vc\n"
+"LinkedIn: http://ow.ly/GJfg30lc5WT\n"
+"Pinterest: http://bit.ly/2I2b5N0"
+msgstr ""
+
+#. module: open_academy
+#: model_terms:slide.slide,description:open_academy.slide_slide_odoo_dev_5
+#: model_terms:slide.slide,description:open_academy.slide_slide_odoo_dev_9
+msgid ""
+"Video tutorial includes the step-by-step procedure of building a custom module in Odoo version 13. Covers the areas of  Models and field declarations, Menu and various views (form, tree, search), security groups, and access rights.\n"
+"\n"
+"Video Contents:\n"
+"00:00 Introduction\n"
+"00:48 How to create a New Business Object\n"
+"01:12 What is an ORM Layer\n"
+"9:15 How to create Menu in the Interface\n"
+"19:52 How to Update your Module in Odoo\n"
+"22:25 How to view a Module Information\n"
+"\n"
+"Watch Part 1 Video: https://youtu.be/7vkRCzvnhHs\n"
+"\n"
+"Related Videos:\n"
+"Configure Odoo 14 Project on Pycharm Ubuntu: https://www.youtube.com/watch?v=UGg1j5RCXKk&amp;t=5s\n"
+"Building a Module in Odoo 14: https://www.youtube.com/watch?v=wwIniIlIrAc\n"
+"Composition of a module in Odoo 14: https://www.youtube.com/watch?v=8_M96X4O6XI\n"
+"Module Structure in Odoo 14: https://www.youtube.com/watch?v=1F0veP4EJ2Q&amp;t=160s\n"
+"Empty Module Structure Scaffold in Odoo 14: https://www.youtube.com/watch?v=fY-QQXT2clw\n"
+"\n"
+"Topics\n"
+"1. Composition of a module&#13;\n"
+"2. Scaffold Method&#13;\n"
+"3. Object - Relational Mapping&#13;\n"
+"4. Model fields&#13;\n"
+"5. Data files&#13;\n"
+"6. Actions and menus&#13;\n"
+"7. Basic views&#13;\n"
+"Get the module from our repository: https://github.com/CybroOdoo/openacademy\n"
+"&#13;\n"
+"Video tutorial includes the step by step procedure of building a custom module in odoo version 13. Covers the areas of  Models and field declarations, Menu and various views (form, tree, search), security groups, and access rights.&#13;\n"
+"&#13;\n"
+"The video covers the region of the composition of the basic structure of the module, the creation of the module structure using the scaffold command method.&#13;\n"
+"It also discusses the relational mapping between the objects along with the field type and field declarations.&#13;\n"
+"&#13;\n"
+"Beginners will get a clear idea about creating views and corresponding actions through this video.&#13;\n"
+"&#13;\n"
+"The data creation in specific models using the data files at the time of installation is also mentioned in the video.#odoo13 #odootutorials #odoomodule #odoo #odoodevelopment\n"
+"For More Videos Subscribe to our YouTube channel. \n"
+"\n"
+"Learn more about creating Modules by referring to Odoo v13 Book: https://www.cybrosys.com/odoo/odoo-books/odoo-book-v13/\n"
+"Visit our company website: https://www.cybrosys.com/\n"
+"\n"
+"Connect with us: \n"
+"Facebook: http://ow.ly/Ty0Q30lc5TU\n"
+"twitter: http://ow.ly/s5cV30lc5Vc\n"
+"LinkedIn: http://ow.ly/GJfg30lc5WT\n"
+"Pinterest: http://bit.ly/2I2b5N0"
+msgstr ""
+
+#. module: open_academy
+#: model:ir.model,name:open_academy.model_openacademy_wizard
+msgid "Asistente: registro rápido de asistentes a las sesiones"
+msgstr ""
+
+#. module: open_academy
+#: model_terms:ir.ui.view,arch_db:open_academy.wizard_form_view
+msgid "or"
+msgstr "o"
+
+#. module: open_academy
+#: model_terms:ir.ui.view,arch_db:open_academy.report_session_view
+msgid "to"
+msgstr "a"
